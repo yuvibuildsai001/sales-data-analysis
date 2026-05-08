@@ -1,0 +1,1011 @@
+order_id,order_date,customer_city,customer_state,category,product_name,quantity,unit_price,total_amount,payment_method,rating
+ORD00001,2024-02-22,Hyderabad,Telangana,Electronics,Smartphone,1,59453.26,59453.26,Debit Card,4.7
+ORD00002,2024-11-04,Pune,Maharashtra,Sports,Dumbbells,1,608.29,608.29,UPI,3.0
+ORD00003,2024-01-04,Hyderabad,Telangana,Grocery,Tea Powder,1,238.78,238.78,Net Banking,2.9
+ORD00004,2024-02-17,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,5,2585.55,12927.75,Credit Card,3.4
+ORD00005,2024-07-12,Gurgaon,Haryana,Sports,Yoga Mat,2,8129.14,16258.28,UPI,3.2
+ORD00006,2024-04-26,Hyderabad,Telangana,Sports,Yoga Mat,2,5900.32,11800.64,Net Banking,5.0
+ORD00007,2024-03-24,Surat,Gujarat,Clothing,T-Shirt,1,2024.61,2024.61,Credit Card,3.0
+ORD00008,2024-03-24,Noida,Uttar Pradesh,Grocery,Basmati Rice,1,324.11,324.11,Credit Card,3.2
+ORD00009,2024-01-29,Jaipur,Rajasthan,Grocery,Tea Powder,1,148.83,148.83,UPI,2.6
+ORD00010,2024-06-10,Gurgaon,Haryana,Books,Self-Help Book,4,146.33,585.32,UPI,3.7
+ORD00011,2024-10-02,Jaipur,Rajasthan,Grocery,Spice Set,1,114.29,114.29,UPI,4.0
+ORD00012,2024-09-09,Jaipur,Rajasthan,Sports,Dumbbells,5,3811.37,19056.85,UPI,2.6
+ORD00013,2024-07-16,Pune,Maharashtra,Clothing,Sneakers,2,967.91,1935.82,Credit Card,5.0
+ORD00014,2024-12-15,Chennai,Tamil Nadu,Home & Kitchen,Air Purifier,1,12953.46,12953.46,Cash on Delivery,4.4
+ORD00015,2024-05-14,Ahmedabad,Gujarat,Grocery,Cooking Oil,1,100.2,100.2,EMI,4.4
+ORD00016,2024-03-19,Chennai,Tamil Nadu,Electronics,Smartwatch,2,24226.36,48452.72,Credit Card,2.9
+ORD00017,2024-07-04,Ahmedabad,Gujarat,Sports,Cricket Bat,1,6109.76,6109.76,Cash on Delivery,4.6
+ORD00018,2024-09-05,Noida,Uttar Pradesh,Clothing,T-Shirt,2,1356.18,2712.36,Net Banking,4.9
+ORD00019,2024-09-27,Chennai,Tamil Nadu,Clothing,Jeans,4,3366.8,13467.2,Cash on Delivery,3.6
+ORD00020,2024-07-10,Delhi,Delhi,Sports,Badminton Racket,1,7215.61,7215.61,Credit Card,3.8
+ORD00021,2024-10-28,Pune,Maharashtra,Clothing,Jeans,1,507.32,507.32,UPI,2.7
+ORD00022,2024-09-20,Hyderabad,Telangana,Electronics,Laptop,1,5858.33,5858.33,UPI,4.2
+ORD00023,2024-05-04,Delhi,Delhi,Sports,Badminton Racket,4,7316.52,29266.08,Net Banking,4.5
+ORD00024,2024-01-28,Delhi,Delhi,Electronics,Smartphone,1,52889.13,52889.13,Debit Card,5.0
+ORD00025,2024-04-08,Pune,Maharashtra,Electronics,Smart TV,3,58392.98,175178.94,UPI,3.6
+ORD00026,2024-10-08,Bengaluru,Karnataka,Clothing,Kurta,4,2420.61,9682.44,UPI,4.1
+ORD00027,2024-09-05,Chennai,Tamil Nadu,Electronics,Smartphone,3,74146.18,222438.54,Credit Card,4.7
+ORD00028,2024-08-20,Jaipur,Rajasthan,Electronics,Laptop,5,30628.36,153141.8,UPI,4.2
+ORD00029,2024-10-23,Kolkata,West Bengal,Sports,Dumbbells,1,1801.53,1801.53,Net Banking,2.7
+ORD00030,2024-03-21,Gurgaon,Haryana,Electronics,Smartphone,2,46942.12,93884.24,UPI,3.8
+ORD00031,2024-03-02,Surat,Gujarat,Clothing,T-Shirt,2,3056.17,6112.34,Cash on Delivery,3.9
+ORD00032,2024-09-24,Coimbatore,Tamil Nadu,Sports,Cricket Bat,1,6308.0,6308.0,UPI,3.2
+ORD00033,2024-06-02,Hyderabad,Telangana,Grocery,Cooking Oil,1,157.41,157.41,Credit Card,4.8
+ORD00034,2024-02-07,Jaipur,Rajasthan,Electronics,Smartphone,5,36933.7,184668.5,Credit Card,3.8
+ORD00035,2024-10-05,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,1,13225.27,13225.27,Debit Card,4.0
+ORD00036,2024-12-05,Ahmedabad,Gujarat,Grocery,Tea Powder,3,53.52,160.56,UPI,4.7
+ORD00037,2024-04-17,Noida,Uttar Pradesh,Electronics,Smartphone,1,59522.13,59522.13,Debit Card,3.0
+ORD00038,2024-02-17,Hyderabad,Telangana,Home & Kitchen,Air Purifier,4,7481.42,29925.68,Debit Card,4.6
+ORD00039,2024-08-14,Mumbai,Maharashtra,Electronics,Headphones,2,61803.98,123607.96,Debit Card,3.6
+ORD00040,2024-01-19,Mumbai,Maharashtra,Electronics,Smartphone,2,75631.55,151263.1,Cash on Delivery,4.0
+ORD00041,2024-01-21,Nagpur,Maharashtra,Books,Fiction Novel,1,129.28,129.28,Cash on Delivery,3.0
+ORD00042,2024-11-13,Delhi,Delhi,Grocery,Basmati Rice,2,209.16,418.32,Net Banking,4.8
+ORD00043,2024-06-19,Delhi,Delhi,Clothing,Jeans,1,4430.8,4430.8,Net Banking,3.5
+ORD00044,2024-01-20,Hyderabad,Telangana,Grocery,Toor Dal,3,170.06,510.18,Cash on Delivery,3.1
+ORD00045,2024-01-13,Surat,Gujarat,Books,Self-Help Book,3,313.63,940.89,Debit Card,3.5
+ORD00046,2024-10-01,Noida,Uttar Pradesh,Electronics,Headphones,2,28416.12,56832.24,UPI,2.6
+ORD00047,2024-11-01,Jaipur,Rajasthan,Home & Kitchen,Pressure Cooker,5,8834.67,44173.35,Credit Card,4.3
+ORD00048,2024-04-07,Gurgaon,Haryana,Books,Python Programming,1,788.97,788.97,UPI,4.3
+ORD00049,2024-04-10,Mumbai,Maharashtra,Sports,Running Shoes,4,6962.51,27850.04,Credit Card,2.7
+ORD00050,2024-06-02,Hyderabad,Telangana,Home & Kitchen,Air Purifier,3,4914.56,14743.68,Credit Card,4.2
+ORD00051,2024-07-13,Gurgaon,Haryana,Books,Self-Help Book,1,488.09,488.09,Debit Card,4.8
+ORD00052,2024-04-17,Coimbatore,Tamil Nadu,Sports,Yoga Mat,3,4238.93,12716.79,Credit Card,3.9
+ORD00053,2024-03-27,Hyderabad,Telangana,Home & Kitchen,Curtains,2,6794.25,13588.5,Debit Card,3.2
+ORD00054,2024-12-10,Hyderabad,Telangana,Grocery,Tea Powder,3,200.83,602.49,UPI,4.5
+ORD00055,2024-02-07,Nagpur,Maharashtra,Electronics,Smartphone,1,19964.98,19964.98,Credit Card,4.7
+ORD00056,2024-12-01,Coimbatore,Tamil Nadu,Clothing,Sneakers,1,3542.5,3542.5,Debit Card,4.7
+ORD00057,2024-08-25,Surat,Gujarat,Electronics,Smart TV,3,17897.87,53693.61,UPI,3.1
+ORD00058,2024-10-13,Surat,Gujarat,Electronics,Smart TV,1,11100.46,11100.46,Debit Card,4.9
+ORD00059,2024-10-07,Jaipur,Rajasthan,Books,Python Programming,4,670.5,2682.0,Credit Card,2.9
+ORD00060,2024-09-23,Surat,Gujarat,Books,UPSC Guide,1,281.43,281.43,Credit Card,3.1
+ORD00061,2024-10-03,Mysuru,Karnataka,Electronics,Smartwatch,1,23215.39,23215.39,UPI,2.9
+ORD00062,2024-10-04,Bengaluru,Karnataka,Grocery,Toor Dal,1,367.89,367.89,Credit Card,2.7
+ORD00063,2024-10-21,Surat,Gujarat,Books,UPSC Guide,2,733.39,1466.78,Credit Card,2.5
+ORD00064,2024-10-06,Gurgaon,Haryana,Home & Kitchen,Curtains,5,12845.68,64228.4,Net Banking,4.7
+ORD00065,2024-12-13,Mysuru,Karnataka,Clothing,Kurta,1,2292.01,2292.01,Net Banking,4.3
+ORD00066,2024-10-30,Surat,Gujarat,Books,Fiction Novel,2,786.51,1573.02,Debit Card,2.6
+ORD00067,2024-06-16,Hyderabad,Telangana,Books,Fiction Novel,1,706.8,706.8,UPI,3.3
+ORD00068,2024-02-11,Ahmedabad,Gujarat,Books,Self-Help Book,3,626.41,1879.23,Credit Card,4.4
+ORD00069,2024-01-16,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,3,9857.12,29571.36,Cash on Delivery,3.0
+ORD00070,2024-04-21,Mumbai,Maharashtra,Sports,Badminton Racket,1,2613.89,2613.89,Credit Card,3.1
+ORD00071,2024-03-24,Gurgaon,Haryana,Clothing,Jacket,2,3114.79,6229.58,EMI,2.8
+ORD00072,2024-04-11,Mumbai,Maharashtra,Home & Kitchen,Air Purifier,5,10257.01,51285.05,UPI,4.2
+ORD00073,2024-03-02,Hyderabad,Telangana,Clothing,T-Shirt,1,3546.53,3546.53,Net Banking,3.9
+ORD00074,2024-06-23,Mumbai,Maharashtra,Home & Kitchen,Air Purifier,1,6597.16,6597.16,UPI,3.6
+ORD00075,2024-12-28,Mysuru,Karnataka,Electronics,Smart TV,2,76882.61,153765.22,UPI,2.9
+ORD00076,2024-08-26,Chennai,Tamil Nadu,Grocery,Cooking Oil,4,327.16,1308.64,Credit Card,4.3
+ORD00077,2024-05-04,Noida,Uttar Pradesh,Home & Kitchen,Pressure Cooker,1,12511.75,12511.75,Net Banking,3.9
+ORD00078,2024-04-18,Hyderabad,Telangana,Books,Self-Help Book,3,120.09,360.27,Credit Card,3.1
+ORD00079,2024-05-03,Noida,Uttar Pradesh,Sports,Yoga Mat,2,5691.17,11382.34,Debit Card,3.7
+ORD00080,2024-01-09,Ahmedabad,Gujarat,Clothing,Sneakers,2,2485.25,4970.5,UPI,3.1
+ORD00081,2024-06-25,Kolkata,West Bengal,Clothing,Kurta,1,3387.01,3387.01,Credit Card,4.4
+ORD00082,2024-04-08,Gurgaon,Haryana,Home & Kitchen,Curtains,1,4282.47,4282.47,UPI,4.4
+ORD00083,2024-10-28,Ahmedabad,Gujarat,Grocery,Toor Dal,2,136.19,272.38,EMI,3.8
+ORD00084,2024-12-28,Noida,Uttar Pradesh,Electronics,Laptop,1,24051.59,24051.59,Credit Card,3.2
+ORD00085,2024-09-08,Mumbai,Maharashtra,Sports,Yoga Mat,1,7064.95,7064.95,UPI,2.5
+ORD00086,2024-09-01,Noida,Uttar Pradesh,Books,UPSC Guide,1,408.33,408.33,UPI,2.7
+ORD00087,2024-10-15,Mysuru,Karnataka,Electronics,Tablet,1,50540.93,50540.93,Cash on Delivery,2.7
+ORD00088,2024-04-25,Delhi,Delhi,Electronics,Tablet,2,61273.25,122546.5,Net Banking,3.5
+ORD00089,2024-11-13,Jaipur,Rajasthan,Books,Self-Help Book,5,702.12,3510.6,UPI,4.9
+ORD00090,2024-03-29,Pune,Maharashtra,Clothing,Sneakers,2,1212.92,2425.84,Debit Card,2.9
+ORD00091,2024-05-24,Bengaluru,Karnataka,Books,Python Programming,1,428.94,428.94,Debit Card,3.6
+ORD00092,2024-04-11,Hyderabad,Telangana,Clothing,Kurta,2,3981.57,7963.14,Credit Card,3.9
+ORD00093,2024-06-06,Hyderabad,Telangana,Clothing,Kurta,1,4167.83,4167.83,Debit Card,4.6
+ORD00094,2024-05-19,Jaipur,Rajasthan,Home & Kitchen,Curtains,2,2128.0,4256.0,Credit Card,3.7
+ORD00095,2024-01-14,Pune,Maharashtra,Sports,Cricket Bat,2,8927.4,17854.8,UPI,4.9
+ORD00096,2024-05-17,Surat,Gujarat,Sports,Running Shoes,5,9522.63,47613.15,Debit Card,4.4
+ORD00097,2024-10-26,Nagpur,Maharashtra,Books,Python Programming,4,556.06,2224.24,Credit Card,4.5
+ORD00098,2024-03-23,Pune,Maharashtra,Books,Self-Help Book,1,385.84,385.84,UPI,4.2
+ORD00099,2024-06-10,Noida,Uttar Pradesh,Grocery,Spice Set,2,416.1,832.2,UPI,2.8
+ORD00100,2024-08-24,Ahmedabad,Gujarat,Books,Python Programming,1,677.45,677.45,Credit Card,3.0
+ORD00101,2024-10-08,Gurgaon,Haryana,Sports,Dumbbells,3,6366.46,19099.38,UPI,3.2
+ORD00102,2024-05-02,Jaipur,Rajasthan,Grocery,Spice Set,5,104.64,523.2,Debit Card,3.3
+ORD00103,2024-08-24,Mumbai,Maharashtra,Sports,Dumbbells,5,1204.13,6020.65,Cash on Delivery,4.1
+ORD00104,2024-08-29,Nagpur,Maharashtra,Books,Self-Help Book,1,456.21,456.21,UPI,3.9
+ORD00105,2024-05-21,Bengaluru,Karnataka,Clothing,Jacket,4,2639.56,10558.24,Net Banking,4.6
+ORD00106,2024-10-27,Gurgaon,Haryana,Sports,Yoga Mat,1,8259.33,8259.33,Debit Card,4.1
+ORD00107,2024-10-05,Surat,Gujarat,Clothing,Saree,1,2785.19,2785.19,Credit Card,4.8
+ORD00108,2024-07-29,Surat,Gujarat,Clothing,Sneakers,1,1346.27,1346.27,UPI,4.4
+ORD00109,2024-03-18,Kolkata,West Bengal,Books,UPSC Guide,3,791.89,2375.67,Credit Card,2.6
+ORD00110,2024-09-26,Chennai,Tamil Nadu,Sports,Yoga Mat,4,8736.09,34944.36,Cash on Delivery,2.5
+ORD00111,2024-11-15,Nagpur,Maharashtra,Books,Fiction Novel,3,152.38,457.14,Debit Card,4.1
+ORD00112,2024-09-06,Surat,Gujarat,Home & Kitchen,Air Purifier,1,5886.14,5886.14,Cash on Delivery,2.6
+ORD00113,2024-02-16,Pune,Maharashtra,Clothing,Sneakers,1,3485.12,3485.12,Credit Card,2.7
+ORD00114,2024-01-24,Hyderabad,Telangana,Grocery,Basmati Rice,2,249.66,499.32,UPI,2.6
+ORD00115,2024-04-02,Gurgaon,Haryana,Home & Kitchen,Curtains,2,2439.88,4879.76,UPI,2.7
+ORD00116,2024-04-28,Surat,Gujarat,Books,Python Programming,1,578.19,578.19,Credit Card,3.1
+ORD00117,2024-10-06,Noida,Uttar Pradesh,Grocery,Basmati Rice,1,454.51,454.51,UPI,3.6
+ORD00118,2024-06-03,Gurgaon,Haryana,Sports,Yoga Mat,1,6497.71,6497.71,UPI,3.5
+ORD00119,2024-12-24,Mysuru,Karnataka,Electronics,Laptop,1,30818.46,30818.46,UPI,4.9
+ORD00120,2024-01-26,Hyderabad,Telangana,Books,Self-Help Book,3,105.67,317.01,Cash on Delivery,4.4
+ORD00121,2024-11-13,Surat,Gujarat,Home & Kitchen,Pressure Cooker,1,9223.86,9223.86,UPI,4.4
+ORD00122,2024-06-07,Ahmedabad,Gujarat,Grocery,Toor Dal,4,332.71,1330.84,Net Banking,2.6
+ORD00123,2024-03-30,Gurgaon,Haryana,Grocery,Toor Dal,1,90.56,90.56,UPI,4.5
+ORD00124,2024-09-03,Jaipur,Rajasthan,Home & Kitchen,Air Purifier,1,7676.38,7676.38,EMI,3.2
+ORD00125,2024-04-25,Surat,Gujarat,Home & Kitchen,Mixer Grinder,1,7184.47,7184.47,Cash on Delivery,4.3
+ORD00126,2024-03-04,Bengaluru,Karnataka,Sports,Yoga Mat,1,1175.94,1175.94,Credit Card,4.2
+ORD00127,2024-12-11,Hyderabad,Telangana,Home & Kitchen,Air Purifier,2,5901.07,11802.14,UPI,2.6
+ORD00128,2024-08-25,Jaipur,Rajasthan,Sports,Yoga Mat,1,9177.98,9177.98,Cash on Delivery,3.3
+ORD00129,2024-02-29,Bengaluru,Karnataka,Electronics,Laptop,1,4105.07,4105.07,UPI,4.7
+ORD00130,2024-10-03,Nagpur,Maharashtra,Books,UPSC Guide,4,359.71,1438.84,Credit Card,4.4
+ORD00131,2024-05-23,Nagpur,Maharashtra,Books,Engineering Textbook,2,683.59,1367.18,UPI,3.4
+ORD00132,2024-10-05,Mysuru,Karnataka,Books,Fiction Novel,1,698.82,698.82,Cash on Delivery,4.1
+ORD00133,2024-08-20,Mumbai,Maharashtra,Books,Self-Help Book,1,232.87,232.87,UPI,3.0
+ORD00134,2024-10-16,Hyderabad,Telangana,Sports,Cricket Bat,1,790.61,790.61,UPI,4.6
+ORD00135,2024-03-16,Chennai,Tamil Nadu,Clothing,Jacket,3,1236.57,3709.71,Net Banking,4.0
+ORD00136,2024-01-14,Noida,Uttar Pradesh,Clothing,Jeans,3,2793.03,8379.09,UPI,3.4
+ORD00137,2024-08-03,Ahmedabad,Gujarat,Clothing,Jacket,1,1754.1,1754.1,Credit Card,4.4
+ORD00138,2024-11-10,Mysuru,Karnataka,Books,Self-Help Book,1,459.27,459.27,UPI,4.5
+ORD00139,2024-09-02,Surat,Gujarat,Grocery,Tea Powder,2,185.73,371.46,Cash on Delivery,3.6
+ORD00140,2024-02-03,Pune,Maharashtra,Books,UPSC Guide,1,151.44,151.44,UPI,4.1
+ORD00141,2024-09-15,Coimbatore,Tamil Nadu,Sports,Yoga Mat,2,3994.77,7989.54,Debit Card,2.7
+ORD00142,2024-04-20,Kolkata,West Bengal,Electronics,Smartwatch,3,52247.87,156743.61,Credit Card,4.7
+ORD00143,2024-06-09,Bengaluru,Karnataka,Home & Kitchen,Curtains,2,6161.33,12322.66,Debit Card,3.4
+ORD00144,2024-02-19,Nagpur,Maharashtra,Grocery,Spice Set,3,80.21,240.63,Net Banking,3.4
+ORD00145,2024-03-03,Nagpur,Maharashtra,Sports,Cricket Bat,2,5988.71,11977.42,Credit Card,4.7
+ORD00146,2024-10-22,Ahmedabad,Gujarat,Books,Engineering Textbook,2,777.88,1555.76,Credit Card,2.9
+ORD00147,2024-05-22,Mysuru,Karnataka,Clothing,T-Shirt,2,1880.55,3761.1,Debit Card,4.5
+ORD00148,2024-12-02,Surat,Gujarat,Sports,Running Shoes,2,,,Net Banking,3.2
+ORD00149,2024-03-14,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,1,13846.6,13846.6,Debit Card,3.5
+ORD00150,2024-08-20,Nagpur,Maharashtra,Grocery,Basmati Rice,2,91.29,182.58,UPI,3.4
+ORD00151,2024-11-12,Kolkata,West Bengal,Home & Kitchen,Air Purifier,4,9064.49,36257.96,UPI,2.7
+ORD00152,2024-09-19,Mysuru,Karnataka,Grocery,Spice Set,1,268.55,268.55,UPI,3.6
+ORD00153,2024-07-21,Noida,Uttar Pradesh,Grocery,Tea Powder,2,268.98,537.96,EMI,2.6
+ORD00154,2024-03-02,Delhi,Delhi,Home & Kitchen,Pressure Cooker,3,11580.04,34740.12,UPI,4.4
+ORD00155,2024-12-08,Nagpur,Maharashtra,Clothing,Saree,1,2756.4,2756.4,Net Banking,2.7
+ORD00156,2024-06-09,Surat,Gujarat,Grocery,Basmati Rice,1,246.3,246.3,Debit Card,3.9
+ORD00157,2024-03-28,Kolkata,West Bengal,Grocery,Spice Set,1,180.28,180.28,Net Banking,4.0
+ORD00158,2024-10-28,Surat,Gujarat,Grocery,Cooking Oil,3,89.66,268.98,Credit Card,2.7
+ORD00159,2024-11-20,Surat,Gujarat,Home & Kitchen,Bedsheet,3,3557.11,10671.33,UPI,3.8
+ORD00160,2024-04-30,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,3,10992.47,32977.41,UPI,3.1
+ORD00161,2024-11-17,Nagpur,Maharashtra,Sports,Badminton Racket,2,7674.09,15348.18,Credit Card,4.4
+ORD00162,2024-11-15,Ahmedabad,Gujarat,Sports,Dumbbells,4,6906.99,27627.96,UPI,4.9
+ORD00163,2024-05-20,Gurgaon,Haryana,Clothing,Saree,1,527.77,527.77,Debit Card,3.4
+ORD00164,2024-02-09,Pune,Maharashtra,Home & Kitchen,Curtains,1,6943.13,6943.13,Debit Card,4.9
+ORD00165,2024-01-22,Pune,Maharashtra,Sports,Running Shoes,1,5218.56,5218.56,Credit Card,4.5
+ORD00166,2024-08-18,Hyderabad,Telangana,Clothing,Kurta,2,3104.03,6208.06,UPI,4.7
+ORD00167,2024-08-12,Gurgaon,Haryana,Grocery,Basmati Rice,1,277.05,277.05,EMI,3.8
+ORD00168,2024-06-22,Coimbatore,Tamil Nadu,Clothing,Kurta,1,1989.69,1989.69,Debit Card,2.6
+ORD00169,2024-05-25,Hyderabad,Telangana,Grocery,Cooking Oil,1,79.66,79.66,UPI,4.6
+ORD00170,2024-06-28,Jaipur,Rajasthan,Sports,Badminton Racket,2,3533.61,7067.22,UPI,4.1
+ORD00171,2024-07-11,Hyderabad,Telangana,Books,Fiction Novel,4,516.53,2066.12,Debit Card,3.3
+ORD00172,2024-01-10,Nagpur,Maharashtra,Grocery,Tea Powder,2,92.05,184.1,Credit Card,3.0
+ORD00173,2024-05-31,Delhi,Delhi,Home & Kitchen,Curtains,5,3122.48,15612.4,Cash on Delivery,2.8
+ORD00174,2024-03-08,Ahmedabad,Gujarat,Sports,Running Shoes,1,666.15,666.15,Debit Card,2.9
+ORD00175,2024-07-29,Nagpur,Maharashtra,Grocery,Tea Powder,1,414.07,414.07,Credit Card,4.3
+ORD00176,2024-05-02,Mysuru,Karnataka,Sports,Yoga Mat,3,7598.19,22794.57,UPI,4.5
+ORD00177,2024-05-24,Mysuru,Karnataka,Clothing,Kurta,2,3455.87,6911.74,Net Banking,3.8
+ORD00178,2024-11-24,Bengaluru,Karnataka,Clothing,Jeans,1,4046.04,4046.04,Credit Card,3.4
+ORD00179,2024-03-23,Jaipur,Rajasthan,Electronics,Smartwatch,3,67748.44,203245.32,UPI,4.8
+ORD00180,2024-06-27,Nagpur,Maharashtra,Books,Engineering Textbook,1,762.49,762.49,Cash on Delivery,3.5
+ORD00181,2024-01-15,Bengaluru,Karnataka,Sports,Yoga Mat,5,2587.05,12935.25,UPI,2.7
+ORD00182,2024-08-29,Kolkata,West Bengal,Grocery,Cooking Oil,1,406.12,406.12,Debit Card,2.8
+ORD00183,2024-04-20,Kolkata,West Bengal,Books,UPSC Guide,4,,,Cash on Delivery,3.9
+ORD00184,2024-03-03,Kolkata,West Bengal,Sports,Running Shoes,3,4405.57,13216.71,UPI,3.5
+ORD00185,2024-10-01,Ahmedabad,Gujarat,Sports,Dumbbells,3,909.23,2727.69,UPI,3.8
+ORD00186,2024-10-19,Delhi,Delhi,Grocery,Toor Dal,1,181.07,181.07,Credit Card,4.2
+ORD00187,2024-09-16,Pune,Maharashtra,Sports,Yoga Mat,2,956.49,1912.98,Debit Card,3.5
+ORD00188,2024-07-01,Mysuru,Karnataka,Electronics,Smartwatch,1,31257.07,31257.07,Net Banking,3.4
+ORD00189,2024-01-23,Kolkata,West Bengal,Grocery,Basmati Rice,2,397.18,794.36,Credit Card,3.3
+ORD00190,2024-03-10,Hyderabad,Telangana,Clothing,Sneakers,2,2430.19,4860.38,UPI,4.4
+ORD00191,2024-06-10,Mysuru,Karnataka,Electronics,Headphones,3,16526.48,49579.44,Cash on Delivery,3.8
+ORD00192,2024-07-01,Surat,Gujarat,Sports,Dumbbells,3,2757.14,8271.42,Cash on Delivery,2.6
+ORD00193,2024-08-13,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,2129.78,2129.78,Cash on Delivery,3.5
+ORD00194,2024-02-12,Nagpur,Maharashtra,Books,UPSC Guide,3,357.14,1071.42,Debit Card,2.7
+ORD00195,2024-05-31,Coimbatore,Tamil Nadu,Clothing,Jacket,1,1610.08,1610.08,UPI,4.0
+ORD00196,2024-06-29,Bengaluru,Karnataka,Clothing,Sneakers,1,2330.76,2330.76,Debit Card,3.6
+ORD00197,2024-12-13,Hyderabad,Telangana,Electronics,Smartphone,1,53859.12,53859.12,UPI,2.6
+ORD00198,2024-07-06,Surat,Gujarat,Sports,Dumbbells,1,637.55,637.55,Credit Card,4.9
+ORD00199,2024-02-09,Mumbai,Maharashtra,Sports,Badminton Racket,4,6886.9,27547.6,Debit Card,3.8
+ORD00200,2024-09-12,Bengaluru,Karnataka,Home & Kitchen,Bedsheet,1,3969.29,3969.29,Credit Card,4.8
+ORD00201,2024-12-21,Pune,Maharashtra,Home & Kitchen,Bedsheet,1,10649.36,10649.36,Cash on Delivery,3.7
+ORD00202,2024-02-14,Pune,Maharashtra,Clothing,T-Shirt,4,2369.8,9479.2,Net Banking,4.9
+ORD00203,2024-06-02,Gurgaon,Haryana,Grocery,Cooking Oil,2,369.29,738.58,Cash on Delivery,4.3
+ORD00204,2024-04-12,Jaipur,Rajasthan,Grocery,Toor Dal,2,407.16,814.32,Net Banking,3.1
+ORD00205,2024-10-09,Mysuru,Karnataka,Electronics,Headphones,1,44544.7,44544.7,UPI,4.7
+ORD00206,2024-07-28,Pune,Maharashtra,Home & Kitchen,Curtains,2,14994.05,29988.1,Net Banking,2.7
+ORD00207,2024-10-09,Gurgaon,Haryana,Grocery,Basmati Rice,2,252.49,504.98,Debit Card,3.0
+ORD00208,2024-03-19,Nagpur,Maharashtra,Books,Python Programming,1,737.5,737.5,UPI,2.9
+ORD00209,2024-02-10,Jaipur,Rajasthan,Grocery,Toor Dal,4,205.71,822.84,UPI,4.1
+ORD00210,2024-11-24,Chennai,Tamil Nadu,Home & Kitchen,Pressure Cooker,2,9487.83,18975.66,UPI,4.9
+ORD00211,2024-10-15,Nagpur,Maharashtra,Clothing,Sneakers,4,3197.5,12790.0,UPI,4.7
+ORD00212,2024-10-19,Pune,Maharashtra,Electronics,Smartwatch,1,61796.28,61796.28,Credit Card,4.1
+ORD00213,2024-12-16,Mysuru,Karnataka,Grocery,Tea Powder,5,180.35,901.75,Credit Card,3.6
+ORD00214,2024-11-06,Kolkata,West Bengal,Electronics,Laptop,1,35448.64,35448.64,UPI,4.7
+ORD00215,2024-10-14,Gurgaon,Haryana,Grocery,Cooking Oil,1,488.92,488.92,UPI,3.1
+ORD00216,2024-07-15,Pune,Maharashtra,Home & Kitchen,Curtains,1,3944.41,3944.41,Cash on Delivery,3.5
+ORD00217,2024-03-22,Surat,Gujarat,Clothing,Kurta,2,4682.01,9364.02,Credit Card,3.8
+ORD00218,2024-05-03,Mysuru,Karnataka,Home & Kitchen,Curtains,4,640.69,2562.76,UPI,3.4
+ORD00219,2024-05-26,Mumbai,Maharashtra,Home & Kitchen,Curtains,3,9083.53,27250.59,Credit Card,4.6
+ORD00220,2024-07-24,Bengaluru,Karnataka,Clothing,Kurta,3,3692.04,11076.12,UPI,3.9
+ORD00221,2024-05-23,Gurgaon,Haryana,Sports,Yoga Mat,2,1013.26,2026.52,Net Banking,4.1
+ORD00222,2024-06-22,Coimbatore,Tamil Nadu,Electronics,Laptop,1,78019.08,78019.08,Debit Card,3.4
+ORD00223,2024-03-11,Nagpur,Maharashtra,Clothing,Jacket,2,2643.79,5287.58,Debit Card,4.5
+ORD00224,2024-11-09,Chennai,Tamil Nadu,Books,Fiction Novel,2,524.38,1048.76,UPI,3.5
+ORD00225,2024-09-07,Coimbatore,Tamil Nadu,Grocery,Cooking Oil,2,317.18,634.36,Debit Card,3.2
+ORD00226,2024-06-06,Surat,Gujarat,Electronics,Headphones,1,26833.55,26833.55,Net Banking,4.3
+ORD00227,2024-10-23,Kolkata,West Bengal,Grocery,Basmati Rice,1,318.61,318.61,Debit Card,4.3
+ORD00228,2024-07-13,Coimbatore,Tamil Nadu,Books,Fiction Novel,2,466.96,933.92,UPI,4.2
+ORD00229,2024-07-30,Mumbai,Maharashtra,Sports,Cricket Bat,1,2150.61,2150.61,Debit Card,3.5
+ORD00230,2024-03-11,Ahmedabad,Gujarat,Sports,Dumbbells,2,8766.33,17532.66,Credit Card,3.9
+ORD00231,2024-09-29,Hyderabad,Telangana,Books,Python Programming,5,363.78,1818.9,UPI,3.4
+ORD00232,2024-10-12,Ahmedabad,Gujarat,Grocery,Cooking Oil,1,324.53,324.53,UPI,4.9
+ORD00233,2024-10-13,Noida,Uttar Pradesh,Home & Kitchen,Pressure Cooker,1,10446.53,10446.53,Cash on Delivery,4.5
+ORD00234,2024-07-21,Noida,Uttar Pradesh,Home & Kitchen,Mixer Grinder,2,8730.11,17460.22,Net Banking,4.9
+ORD00235,2024-08-14,Ahmedabad,Gujarat,Clothing,Kurta,5,401.92,2009.6,Debit Card,4.4
+ORD00236,2024-02-25,Delhi,Delhi,Clothing,Jacket,2,1501.44,3002.88,Debit Card,4.0
+ORD00237,2024-02-21,Delhi,Delhi,Electronics,Smartwatch,1,72462.14,72462.14,Credit Card,4.3
+ORD00238,2024-07-27,Pune,Maharashtra,Grocery,Toor Dal,2,52.33,104.66,Debit Card,4.7
+ORD00239,2024-01-31,Mysuru,Karnataka,Books,Fiction Novel,1,629.14,629.14,Cash on Delivery,2.7
+ORD00240,2024-03-30,Coimbatore,Tamil Nadu,Clothing,Jacket,3,3745.7,11237.1,Credit Card,4.6
+ORD00241,2024-05-28,Jaipur,Rajasthan,Electronics,Smart TV,1,63142.87,63142.87,Cash on Delivery,2.5
+ORD00242,2024-11-24,Coimbatore,Tamil Nadu,Sports,Cricket Bat,1,9306.01,9306.01,Credit Card,3.7
+ORD00243,2024-08-22,Nagpur,Maharashtra,Sports,Dumbbells,3,2946.52,8839.56,Debit Card,4.3
+ORD00244,2024-03-30,Mumbai,Maharashtra,Grocery,Cooking Oil,2,405.85,811.7,Debit Card,4.1
+ORD00245,2024-03-12,Bengaluru,Karnataka,Books,Python Programming,1,329.55,329.55,Credit Card,4.8
+ORD00246,2024-06-03,Mumbai,Maharashtra,Home & Kitchen,Curtains,3,3762.16,11286.48,Debit Card,3.9
+ORD00247,2024-06-06,Noida,Uttar Pradesh,Grocery,Cooking Oil,1,361.75,361.75,UPI,4.2
+ORD00248,2024-07-07,Jaipur,Rajasthan,Grocery,Cooking Oil,2,360.63,721.26,Debit Card,3.0
+ORD00249,2024-12-25,Nagpur,Maharashtra,Books,Fiction Novel,5,418.49,2092.45,Credit Card,3.7
+ORD00250,2024-02-11,Chennai,Tamil Nadu,Grocery,Toor Dal,2,392.84,785.68,Credit Card,3.8
+ORD00251,2024-04-13,Gurgaon,Haryana,Electronics,Tablet,3,9420.6,28261.8,Debit Card,2.9
+ORD00252,2024-02-16,Gurgaon,Haryana,Sports,Dumbbells,1,1427.53,1427.53,Cash on Delivery,3.6
+ORD00253,2024-08-24,Mumbai,Maharashtra,Books,Fiction Novel,1,459.27,459.27,Debit Card,3.3
+ORD00254,2024-01-24,Mumbai,Maharashtra,Books,Self-Help Book,2,671.52,1343.04,Credit Card,4.3
+ORD00255,2024-04-02,Chennai,Tamil Nadu,Electronics,Smartphone,1,78897.91,78897.91,Net Banking,4.4
+ORD00256,2024-07-12,Kolkata,West Bengal,Grocery,Spice Set,4,218.51,874.04,Credit Card,4.2
+ORD00257,2024-10-02,Hyderabad,Telangana,Sports,Badminton Racket,1,6639.28,6639.28,Credit Card,2.8
+ORD00258,2024-08-05,Delhi,Delhi,Electronics,Smartphone,1,78290.01,78290.01,Credit Card,4.6
+ORD00259,2024-02-27,Delhi,Delhi,Books,Self-Help Book,1,208.58,208.58,UPI,4.2
+ORD00260,2024-11-02,Coimbatore,Tamil Nadu,Electronics,Laptop,1,16883.49,16883.49,Debit Card,4.7
+ORD00261,2024-01-29,Delhi,Delhi,Grocery,Basmati Rice,1,231.02,231.02,UPI,5.0
+ORD00262,2024-06-13,Delhi,Delhi,Grocery,Tea Powder,2,193.51,387.02,UPI,4.7
+ORD00263,2024-10-29,Hyderabad,Telangana,Sports,Badminton Racket,1,4311.53,4311.53,Cash on Delivery,4.8
+ORD00264,2024-11-25,Hyderabad,Telangana,Grocery,Spice Set,1,300.13,300.13,Debit Card,4.5
+ORD00265,2024-10-02,Gurgaon,Haryana,Grocery,Spice Set,1,233.72,233.72,Credit Card,4.6
+ORD00266,2024-08-01,Noida,Uttar Pradesh,Grocery,Toor Dal,4,412.6,1650.4,Debit Card,2.8
+ORD00267,2024-07-08,Delhi,Delhi,Home & Kitchen,Pressure Cooker,1,5154.87,5154.87,UPI,4.3
+ORD00268,2024-02-07,Delhi,Delhi,Electronics,Headphones,2,30484.85,60969.7,UPI,4.4
+ORD00269,2024-06-04,Kolkata,West Bengal,Grocery,Tea Powder,1,147.66,147.66,EMI,2.5
+ORD00270,2024-05-04,Jaipur,Rajasthan,Clothing,Sneakers,5,763.12,3815.6,Debit Card,4.3
+ORD00271,2024-11-28,Bengaluru,Karnataka,Clothing,Jacket,1,1743.75,1743.75,Credit Card,3.2
+ORD00272,2024-06-12,Chennai,Tamil Nadu,Books,UPSC Guide,5,169.03,845.15,Cash on Delivery,3.4
+ORD00273,2024-10-10,Bengaluru,Karnataka,Electronics,Tablet,2,,,Cash on Delivery,3.9
+ORD00274,2024-05-05,Bengaluru,Karnataka,Home & Kitchen,Pressure Cooker,1,3184.02,3184.02,Credit Card,4.1
+ORD00275,2024-09-08,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,11521.4,11521.4,Credit Card,4.3
+ORD00276,2024-10-04,Gurgaon,Haryana,Clothing,Jeans,1,3657.5,3657.5,EMI,4.9
+ORD00277,2024-07-30,Chennai,Tamil Nadu,Electronics,Smartphone,2,75642.45,151284.9,UPI,4.1
+ORD00278,2024-11-12,Pune,Maharashtra,Grocery,Toor Dal,2,54.11,108.22,Debit Card,4.8
+ORD00279,2024-01-09,Jaipur,Rajasthan,Books,UPSC Guide,2,111.01,222.02,Credit Card,3.2
+ORD00280,2024-04-01,Noida,Uttar Pradesh,Electronics,Tablet,2,65146.0,130292.0,UPI,2.7
+ORD00281,2024-07-22,Nagpur,Maharashtra,Clothing,Jeans,1,3174.95,3174.95,UPI,4.9
+ORD00282,2024-02-11,Mysuru,Karnataka,Sports,Badminton Racket,1,9905.26,9905.26,Debit Card,4.6
+ORD00283,2024-11-22,Ahmedabad,Gujarat,Electronics,Smartphone,1,32719.62,32719.62,UPI,2.9
+ORD00284,2024-09-27,Mysuru,Karnataka,Books,Self-Help Book,3,496.1,1488.3,Cash on Delivery,3.1
+ORD00285,2024-05-23,Jaipur,Rajasthan,Grocery,Tea Powder,1,263.98,263.98,Cash on Delivery,3.9
+ORD00286,2024-12-30,Mumbai,Maharashtra,Clothing,Kurta,1,275.16,275.16,Net Banking,4.8
+ORD00287,2024-10-03,Noida,Uttar Pradesh,Clothing,Jacket,3,1354.27,4062.81,UPI,4.4
+ORD00288,2024-08-11,Nagpur,Maharashtra,Grocery,Basmati Rice,5,275.36,1376.8,UPI,2.7
+ORD00289,2024-05-19,Coimbatore,Tamil Nadu,Sports,Running Shoes,3,,,Net Banking,3.6
+ORD00290,2024-12-04,Delhi,Delhi,Home & Kitchen,Air Purifier,1,14134.8,14134.8,Credit Card,4.4
+ORD00291,2024-11-20,Noida,Uttar Pradesh,Clothing,Sneakers,1,552.83,552.83,UPI,3.5
+ORD00292,2024-05-18,Gurgaon,Haryana,Electronics,Smartphone,1,913.02,913.02,UPI,2.7
+ORD00293,2024-06-30,Bengaluru,Karnataka,Books,Python Programming,1,,,Debit Card,4.0
+ORD00294,2024-10-13,Ahmedabad,Gujarat,Home & Kitchen,Curtains,1,481.41,481.41,Cash on Delivery,4.9
+ORD00295,2024-05-17,Coimbatore,Tamil Nadu,Sports,Badminton Racket,1,6947.57,6947.57,Credit Card,2.7
+ORD00296,2024-05-06,Bengaluru,Karnataka,Home & Kitchen,Curtains,3,4706.36,14119.08,Debit Card,3.7
+ORD00297,2024-06-19,Coimbatore,Tamil Nadu,Clothing,Saree,1,713.47,713.47,Cash on Delivery,3.4
+ORD00298,2024-10-31,Surat,Gujarat,Home & Kitchen,Curtains,3,5220.62,15661.86,UPI,3.3
+ORD00299,2024-05-29,Kolkata,West Bengal,Clothing,Saree,5,1708.08,8540.4,Net Banking,4.1
+ORD00300,2024-02-28,Coimbatore,Tamil Nadu,Clothing,Kurta,3,2005.07,6015.21,Cash on Delivery,3.0
+ORD00301,2024-12-28,Chennai,Tamil Nadu,Clothing,Sneakers,1,3884.57,3884.57,UPI,4.5
+ORD00302,2024-09-12,Surat,Gujarat,Grocery,Basmati Rice,3,418.53,1255.59,UPI,3.3
+ORD00303,2024-11-02,Noida,Uttar Pradesh,Grocery,Toor Dal,3,371.86,1115.58,Credit Card,3.5
+ORD00304,2024-10-01,Chennai,Tamil Nadu,Grocery,Spice Set,3,294.64,883.92,Debit Card,4.8
+ORD00305,2024-10-15,Pune,Maharashtra,Clothing,Sneakers,1,3390.53,3390.53,EMI,4.2
+ORD00306,2024-09-22,Bengaluru,Karnataka,Home & Kitchen,Curtains,1,1857.38,1857.38,Debit Card,4.2
+ORD00307,2024-09-13,Delhi,Delhi,Books,Self-Help Book,3,373.79,1121.37,UPI,5.0
+ORD00308,2024-03-13,Mysuru,Karnataka,Electronics,Headphones,5,33570.05,167850.25,UPI,3.4
+ORD00309,2024-12-22,Ahmedabad,Gujarat,Clothing,Jacket,1,2518.04,2518.04,Credit Card,2.7
+ORD00310,2024-03-25,Mumbai,Maharashtra,Grocery,Basmati Rice,1,60.16,60.16,Cash on Delivery,4.4
+ORD00311,2024-04-28,Chennai,Tamil Nadu,Clothing,Jacket,2,968.65,1937.3,Net Banking,4.1
+ORD00312,2024-08-18,Nagpur,Maharashtra,Grocery,Spice Set,2,228.01,456.02,Debit Card,3.5
+ORD00313,2024-10-22,Kolkata,West Bengal,Clothing,Jeans,2,1536.06,3072.12,UPI,4.7
+ORD00314,2024-09-07,Nagpur,Maharashtra,Home & Kitchen,Bedsheet,1,3196.99,3196.99,Credit Card,4.1
+ORD00315,2024-08-22,Coimbatore,Tamil Nadu,Books,Python Programming,1,374.78,374.78,Debit Card,4.5
+ORD00316,2024-05-02,Kolkata,West Bengal,Home & Kitchen,Air Purifier,2,8975.47,17950.94,UPI,3.0
+ORD00317,2024-08-04,Kolkata,West Bengal,Clothing,Jacket,2,2064.62,4129.24,UPI,4.1
+ORD00318,2024-06-10,Kolkata,West Bengal,Grocery,Toor Dal,1,299.71,299.71,Cash on Delivery,4.0
+ORD00319,2024-10-14,Surat,Gujarat,Home & Kitchen,Mixer Grinder,1,7423.75,7423.75,Credit Card,3.7
+ORD00320,2024-10-16,Hyderabad,Telangana,Books,UPSC Guide,1,597.1,597.1,UPI,4.4
+ORD00321,2024-10-16,Noida,Uttar Pradesh,Electronics,Headphones,1,18375.05,18375.05,Net Banking,4.4
+ORD00322,2024-07-06,Chennai,Tamil Nadu,Sports,Cricket Bat,1,5855.33,5855.33,Credit Card,4.4
+ORD00323,2024-11-30,Ahmedabad,Gujarat,Grocery,Spice Set,5,295.86,1479.3,Net Banking,3.2
+ORD00324,2024-03-01,Mumbai,Maharashtra,Books,Self-Help Book,3,344.0,1032.0,Net Banking,3.1
+ORD00325,2024-08-07,Ahmedabad,Gujarat,Grocery,Tea Powder,3,360.11,1080.33,UPI,2.8
+ORD00326,2024-03-27,Delhi,Delhi,Clothing,T-Shirt,2,2936.36,5872.72,UPI,4.3
+ORD00327,2024-02-18,Noida,Uttar Pradesh,Sports,Yoga Mat,2,9538.25,19076.5,UPI,4.4
+ORD00328,2024-05-07,Bengaluru,Karnataka,Electronics,Headphones,1,69430.28,69430.28,UPI,3.3
+ORD00329,2024-07-31,Delhi,Delhi,Grocery,Spice Set,2,270.26,540.52,Credit Card,2.7
+ORD00330,2024-07-07,Ahmedabad,Gujarat,Electronics,Smart TV,1,41491.27,41491.27,Credit Card,3.7
+ORD00331,2024-12-23,Coimbatore,Tamil Nadu,Electronics,Smartwatch,5,7904.76,39523.8,Credit Card,2.7
+ORD00332,2024-06-14,Chennai,Tamil Nadu,Books,Fiction Novel,3,777.69,2333.07,Net Banking,3.3
+ORD00333,2024-01-25,Coimbatore,Tamil Nadu,Clothing,Jacket,3,4291.63,12874.89,UPI,4.1
+ORD00334,2024-01-01,Surat,Gujarat,Books,Engineering Textbook,3,186.97,560.91,EMI,3.6
+ORD00335,2024-02-17,Kolkata,West Bengal,Clothing,Sneakers,4,1648.95,6595.8,Debit Card,3.1
+ORD00336,2024-04-29,Gurgaon,Haryana,Grocery,Toor Dal,2,73.3,146.6,Credit Card,2.7
+ORD00337,2024-12-14,Pune,Maharashtra,Electronics,Laptop,1,38406.13,38406.13,Credit Card,2.5
+ORD00338,2024-02-15,Gurgaon,Haryana,Electronics,Smart TV,1,55675.46,55675.46,Net Banking,2.8
+ORD00339,2024-03-09,Gurgaon,Haryana,Home & Kitchen,Bedsheet,3,2315.8,6947.4,Debit Card,4.2
+ORD00340,2024-04-19,Pune,Maharashtra,Sports,Running Shoes,2,382.2,764.4,Debit Card,2.9
+ORD00341,2024-03-04,Bengaluru,Karnataka,Sports,Dumbbells,1,8641.64,8641.64,Debit Card,3.5
+ORD00342,2024-11-03,Bengaluru,Karnataka,Home & Kitchen,Pressure Cooker,2,3942.46,7884.92,Debit Card,4.0
+ORD00343,2024-09-22,Ahmedabad,Gujarat,Grocery,Basmati Rice,2,431.55,863.1,Debit Card,3.0
+ORD00344,2024-07-16,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,3,11821.88,35465.64,UPI,3.7
+ORD00345,2024-06-11,Coimbatore,Tamil Nadu,Electronics,Tablet,1,71153.6,71153.6,UPI,4.7
+ORD00346,2024-02-07,Coimbatore,Tamil Nadu,Books,Self-Help Book,1,482.45,482.45,UPI,2.7
+ORD00347,2024-05-26,Noida,Uttar Pradesh,Clothing,T-Shirt,4,4628.38,18513.52,Debit Card,3.8
+ORD00348,2024-05-22,Bengaluru,Karnataka,Books,UPSC Guide,2,157.7,315.4,UPI,2.7
+ORD00349,2024-11-28,Jaipur,Rajasthan,Clothing,Jeans,1,2774.67,2774.67,Debit Card,2.7
+ORD00350,2024-08-20,Kolkata,West Bengal,Books,Fiction Novel,1,140.53,140.53,Debit Card,2.6
+ORD00351,2024-03-24,Hyderabad,Telangana,Grocery,Toor Dal,2,103.75,207.5,Credit Card,3.4
+ORD00352,2024-05-17,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,125.13,125.13,Net Banking,2.8
+ORD00353,2024-12-30,Jaipur,Rajasthan,Electronics,Headphones,1,64665.07,64665.07,EMI,4.1
+ORD00354,2024-07-07,Mysuru,Karnataka,Books,Python Programming,1,352.09,352.09,UPI,4.4
+ORD00355,2024-01-07,Jaipur,Rajasthan,Sports,Cricket Bat,2,2515.52,5031.04,UPI,3.7
+ORD00356,2024-12-01,Bengaluru,Karnataka,Clothing,Jeans,3,4669.57,14008.71,Credit Card,3.3
+ORD00357,2024-09-14,Bengaluru,Karnataka,Grocery,Cooking Oil,1,172.07,172.07,Debit Card,2.6
+ORD00358,2024-05-24,Delhi,Delhi,Sports,Cricket Bat,1,9554.57,9554.57,Net Banking,3.3
+ORD00359,2024-06-04,Pune,Maharashtra,Sports,Dumbbells,1,377.3,377.3,Net Banking,3.1
+ORD00360,2024-10-06,Gurgaon,Haryana,Sports,Dumbbells,3,9978.54,29935.62,Net Banking,3.1
+ORD00361,2024-01-05,Mumbai,Maharashtra,Books,Engineering Textbook,1,263.1,263.1,EMI,2.5
+ORD00362,2024-09-08,Hyderabad,Telangana,Books,Self-Help Book,2,172.76,345.52,EMI,4.9
+ORD00363,2024-09-23,Nagpur,Maharashtra,Grocery,Cooking Oil,4,91.86,367.44,Credit Card,4.7
+ORD00364,2024-07-20,Mysuru,Karnataka,Grocery,Basmati Rice,2,311.35,622.7,UPI,3.9
+ORD00365,2024-07-20,Bengaluru,Karnataka,Grocery,Toor Dal,1,156.55,156.55,Debit Card,4.3
+ORD00366,2024-10-26,Gurgaon,Haryana,Books,Self-Help Book,4,263.53,1054.12,UPI,2.8
+ORD00367,2024-04-16,Mysuru,Karnataka,Books,Self-Help Book,2,384.56,769.12,Credit Card,3.7
+ORD00368,2024-12-22,Surat,Gujarat,Electronics,Smartphone,2,13030.42,26060.84,Debit Card,3.0
+ORD00369,2024-09-19,Surat,Gujarat,Home & Kitchen,Pressure Cooker,1,1640.83,1640.83,UPI,3.2
+ORD00370,2024-10-08,Surat,Gujarat,Clothing,T-Shirt,3,4770.06,14310.18,UPI,3.7
+ORD00371,2024-03-07,Ahmedabad,Gujarat,Clothing,T-Shirt,3,257.39,772.17,UPI,3.5
+ORD00372,2024-01-12,Hyderabad,Telangana,Grocery,Basmati Rice,1,312.05,312.05,EMI,3.0
+ORD00373,2024-03-03,Hyderabad,Telangana,Books,Fiction Novel,3,164.39,493.17,UPI,3.7
+ORD00374,2024-12-15,Nagpur,Maharashtra,Sports,Dumbbells,1,,,Credit Card,3.4
+ORD00375,2024-11-13,Jaipur,Rajasthan,Clothing,Kurta,4,1543.3,6173.2,Debit Card,4.1
+ORD00376,2024-08-02,Mysuru,Karnataka,Books,Python Programming,1,435.32,435.32,UPI,4.7
+ORD00377,2024-07-14,Chennai,Tamil Nadu,Clothing,Sneakers,2,,,Net Banking,3.4
+ORD00378,2024-04-02,Chennai,Tamil Nadu,Books,Self-Help Book,2,738.87,1477.74,UPI,4.0
+ORD00379,2024-10-26,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,12187.21,12187.21,EMI,4.9
+ORD00380,2024-01-29,Pune,Maharashtra,Clothing,Sneakers,2,1357.53,2715.06,Net Banking,4.9
+ORD00381,2024-05-01,Coimbatore,Tamil Nadu,Books,Self-Help Book,5,754.64,3773.2,Debit Card,4.5
+ORD00382,2024-10-15,Kolkata,West Bengal,Home & Kitchen,Air Purifier,2,714.64,1429.28,UPI,4.9
+ORD00383,2024-04-29,Surat,Gujarat,Books,Python Programming,1,316.34,316.34,Debit Card,2.5
+ORD00384,2024-03-31,Mysuru,Karnataka,Electronics,Headphones,1,73472.75,73472.75,Cash on Delivery,4.6
+ORD00385,2024-02-26,Gurgaon,Haryana,Electronics,Smartphone,2,12243.11,24486.22,Cash on Delivery,4.7
+ORD00386,2024-03-21,Pune,Maharashtra,Home & Kitchen,Curtains,1,8914.44,8914.44,Net Banking,3.6
+ORD00387,2024-11-10,Hyderabad,Telangana,Books,Self-Help Book,5,221.94,1109.7,Net Banking,3.1
+ORD00388,2024-01-01,Coimbatore,Tamil Nadu,Clothing,Saree,2,1672.75,3345.5,Cash on Delivery,4.9
+ORD00389,2024-11-09,Bengaluru,Karnataka,Sports,Cricket Bat,1,2066.19,2066.19,UPI,3.9
+ORD00390,2024-06-12,Jaipur,Rajasthan,Books,Fiction Novel,1,331.82,331.82,UPI,4.7
+ORD00391,2024-02-04,Pune,Maharashtra,Grocery,Cooking Oil,1,250.98,250.98,Credit Card,4.5
+ORD00392,2024-07-30,Kolkata,West Bengal,Electronics,Smartphone,2,31182.0,62364.0,Credit Card,3.4
+ORD00393,2024-12-17,Chennai,Tamil Nadu,Books,Engineering Textbook,3,680.16,2040.48,UPI,3.6
+ORD00394,2024-06-24,Ahmedabad,Gujarat,Electronics,Headphones,1,2096.2,2096.2,UPI,3.4
+ORD00395,2024-11-10,Kolkata,West Bengal,Electronics,Tablet,5,75375.81,376879.05,Cash on Delivery,4.3
+ORD00396,2024-06-18,Bengaluru,Karnataka,Grocery,Toor Dal,1,323.29,323.29,UPI,3.0
+ORD00397,2024-01-26,Kolkata,West Bengal,Sports,Running Shoes,1,2873.07,2873.07,Credit Card,3.9
+ORD00398,2024-12-04,Mysuru,Karnataka,Clothing,T-Shirt,1,1931.98,1931.98,Debit Card,3.7
+ORD00399,2024-02-29,Pune,Maharashtra,Electronics,Laptop,1,14081.16,14081.16,UPI,3.5
+ORD00400,2024-07-14,Mysuru,Karnataka,Grocery,Cooking Oil,2,91.01,182.02,Credit Card,3.6
+ORD00401,2024-03-18,Noida,Uttar Pradesh,Books,UPSC Guide,3,284.38,853.14,Net Banking,4.2
+ORD00402,2024-04-26,Pune,Maharashtra,Grocery,Cooking Oil,1,413.68,413.68,Debit Card,4.6
+ORD00403,2024-10-20,Surat,Gujarat,Sports,Dumbbells,2,9666.59,19333.18,Cash on Delivery,3.7
+ORD00404,2024-12-12,Pune,Maharashtra,Books,Engineering Textbook,4,451.47,1805.88,EMI,2.9
+ORD00405,2024-04-08,Ahmedabad,Gujarat,Books,Fiction Novel,1,764.34,764.34,UPI,3.6
+ORD00406,2024-05-12,Hyderabad,Telangana,Books,Fiction Novel,2,798.09,1596.18,UPI,4.3
+ORD00407,2024-05-21,Ahmedabad,Gujarat,Electronics,Smartphone,1,31353.88,31353.88,Credit Card,4.8
+ORD00408,2024-03-17,Mumbai,Maharashtra,Grocery,Tea Powder,3,314.41,943.23,UPI,4.0
+ORD00409,2024-10-01,Ahmedabad,Gujarat,Electronics,Smartphone,1,45233.36,45233.36,Cash on Delivery,4.7
+ORD00410,2024-07-25,Noida,Uttar Pradesh,Books,UPSC Guide,1,500.42,500.42,UPI,4.0
+ORD00411,2024-01-26,Kolkata,West Bengal,Books,Engineering Textbook,4,377.05,1508.2,Net Banking,4.8
+ORD00412,2024-09-08,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,3,5266.63,15799.89,Cash on Delivery,4.2
+ORD00413,2024-06-13,Surat,Gujarat,Clothing,Jeans,2,1642.31,3284.62,UPI,3.5
+ORD00414,2024-09-05,Hyderabad,Telangana,Electronics,Laptop,4,35616.47,142465.88,Net Banking,4.7
+ORD00415,2024-07-25,Surat,Gujarat,Electronics,Tablet,1,63423.49,63423.49,UPI,4.6
+ORD00416,2024-01-30,Jaipur,Rajasthan,Sports,Cricket Bat,4,1985.25,7941.0,UPI,3.6
+ORD00417,2024-11-21,Jaipur,Rajasthan,Home & Kitchen,Pressure Cooker,3,4327.47,12982.41,Cash on Delivery,4.2
+ORD00418,2024-10-27,Delhi,Delhi,Home & Kitchen,Curtains,1,9032.44,9032.44,Debit Card,3.4
+ORD00419,2024-10-19,Surat,Gujarat,Home & Kitchen,Mixer Grinder,1,4490.52,4490.52,Net Banking,3.0
+ORD00420,2024-01-11,Delhi,Delhi,Grocery,Toor Dal,1,354.96,354.96,Cash on Delivery,4.9
+ORD00421,2024-01-05,Hyderabad,Telangana,Electronics,Smart TV,2,72965.48,145930.96,UPI,4.0
+ORD00422,2024-05-09,Noida,Uttar Pradesh,Grocery,Cooking Oil,1,240.71,240.71,UPI,3.3
+ORD00423,2024-07-10,Chennai,Tamil Nadu,Sports,Dumbbells,1,5969.53,5969.53,Debit Card,4.0
+ORD00424,2024-06-15,Noida,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,7381.55,7381.55,Cash on Delivery,3.2
+ORD00425,2024-01-30,Kolkata,West Bengal,Grocery,Cooking Oil,2,134.76,269.52,Net Banking,4.5
+ORD00426,2024-05-31,Coimbatore,Tamil Nadu,Books,Self-Help Book,2,576.53,1153.06,UPI,3.5
+ORD00427,2024-06-24,Bengaluru,Karnataka,Grocery,Basmati Rice,5,312.36,1561.8,Debit Card,3.1
+ORD00428,2024-03-28,Chennai,Tamil Nadu,Grocery,Spice Set,2,457.94,915.88,Cash on Delivery,4.7
+ORD00429,2024-10-13,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,2,7220.48,14440.96,Net Banking,3.0
+ORD00430,2024-08-03,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,3567.13,3567.13,Net Banking,3.3
+ORD00431,2024-11-20,Noida,Uttar Pradesh,Sports,Yoga Mat,1,4798.48,4798.48,Debit Card,4.9
+ORD00432,2024-06-01,Pune,Maharashtra,Books,Fiction Novel,3,450.33,1350.99,Credit Card,4.7
+ORD00433,2024-08-22,Nagpur,Maharashtra,Clothing,Jeans,5,1844.82,9224.1,UPI,4.7
+ORD00434,2024-01-30,Nagpur,Maharashtra,Electronics,Smart TV,5,26944.04,134720.2,UPI,3.2
+ORD00435,2024-02-15,Ahmedabad,Gujarat,Clothing,Jacket,1,3869.52,3869.52,UPI,3.6
+ORD00436,2024-04-12,Bengaluru,Karnataka,Books,UPSC Guide,1,775.73,775.73,Net Banking,4.9
+ORD00437,2024-05-07,Jaipur,Rajasthan,Home & Kitchen,Air Purifier,2,3101.48,6202.96,UPI,4.7
+ORD00438,2024-01-24,Noida,Uttar Pradesh,Clothing,T-Shirt,2,2041.04,4082.08,UPI,3.2
+ORD00439,2024-03-09,Kolkata,West Bengal,Sports,Running Shoes,1,5383.94,5383.94,UPI,4.8
+ORD00440,2024-04-26,Gurgaon,Haryana,Clothing,Jeans,4,4750.8,19003.2,UPI,5.0
+ORD00441,2024-11-29,Delhi,Delhi,Grocery,Basmati Rice,1,315.36,315.36,Net Banking,3.4
+ORD00442,2024-02-25,Hyderabad,Telangana,Home & Kitchen,Air Purifier,2,9460.08,18920.16,Debit Card,2.5
+ORD00443,2024-12-25,Kolkata,West Bengal,Electronics,Smart TV,1,35822.99,35822.99,UPI,4.2
+ORD00444,2024-11-14,Hyderabad,Telangana,Electronics,Headphones,1,33959.28,33959.28,Debit Card,2.8
+ORD00445,2024-02-24,Surat,Gujarat,Electronics,Tablet,1,57641.91,57641.91,Credit Card,4.0
+ORD00446,2024-03-23,Ahmedabad,Gujarat,Home & Kitchen,Air Purifier,1,14604.86,14604.86,UPI,3.7
+ORD00447,2024-02-26,Delhi,Delhi,Grocery,Spice Set,1,198.77,198.77,Cash on Delivery,4.2
+ORD00448,2024-11-25,Nagpur,Maharashtra,Electronics,Tablet,2,6466.33,12932.66,UPI,5.0
+ORD00449,2024-05-28,Noida,Uttar Pradesh,Home & Kitchen,Curtains,3,1036.18,3108.54,Credit Card,4.2
+ORD00450,2024-03-11,Bengaluru,Karnataka,Grocery,Basmati Rice,3,92.75,278.25,Debit Card,2.9
+ORD00451,2024-06-24,Gurgaon,Haryana,Books,Python Programming,2,287.82,575.64,UPI,3.5
+ORD00452,2024-03-26,Mysuru,Karnataka,Home & Kitchen,Curtains,1,10441.57,10441.57,UPI,4.2
+ORD00453,2024-12-13,Mumbai,Maharashtra,Clothing,T-Shirt,2,2196.93,4393.86,Credit Card,4.0
+ORD00454,2024-03-07,Ahmedabad,Gujarat,Home & Kitchen,Air Purifier,2,723.6,1447.2,Credit Card,3.7
+ORD00455,2024-12-26,Jaipur,Rajasthan,Books,UPSC Guide,1,132.18,132.18,Cash on Delivery,3.8
+ORD00456,2024-09-22,Kolkata,West Bengal,Sports,Running Shoes,5,2472.65,12363.25,Credit Card,4.3
+ORD00457,2024-03-17,Pune,Maharashtra,Books,Fiction Novel,2,437.35,874.7,Cash on Delivery,3.9
+ORD00458,2024-09-10,Coimbatore,Tamil Nadu,Electronics,Smartphone,1,51650.2,51650.2,Cash on Delivery,2.7
+ORD00459,2024-10-08,Mysuru,Karnataka,Home & Kitchen,Pressure Cooker,1,5164.15,5164.15,Debit Card,3.5
+ORD00460,2024-09-12,Delhi,Delhi,Electronics,Smart TV,2,35813.02,71626.04,Credit Card,2.8
+ORD00461,2024-01-01,Mysuru,Karnataka,Grocery,Basmati Rice,1,96.19,96.19,Net Banking,4.5
+ORD00462,2024-08-21,Coimbatore,Tamil Nadu,Grocery,Cooking Oil,2,450.55,901.1,EMI,3.4
+ORD00463,2024-12-02,Mumbai,Maharashtra,Clothing,Saree,3,1793.47,5380.41,Credit Card,3.6
+ORD00464,2024-05-29,Pune,Maharashtra,Grocery,Toor Dal,1,50.99,50.99,Credit Card,3.4
+ORD00465,2024-07-28,Pune,Maharashtra,Electronics,Laptop,3,39647.56,118942.68,UPI,4.0
+ORD00466,2024-06-22,Delhi,Delhi,Electronics,Smart TV,3,17639.37,52918.11,UPI,3.5
+ORD00467,2024-10-28,Jaipur,Rajasthan,Grocery,Tea Powder,4,105.45,421.8,EMI,2.8
+ORD00468,2024-10-26,Mysuru,Karnataka,Electronics,Tablet,2,59029.01,118058.02,Credit Card,3.8
+ORD00469,2024-07-17,Jaipur,Rajasthan,Clothing,Sneakers,2,2977.06,5954.12,Debit Card,4.0
+ORD00470,2024-05-07,Gurgaon,Haryana,Sports,Dumbbells,2,4361.05,8722.1,UPI,4.9
+ORD00471,2024-09-19,Noida,Uttar Pradesh,Books,Fiction Novel,2,196.73,393.46,UPI,4.3
+ORD00472,2024-05-28,Surat,Gujarat,Home & Kitchen,Air Purifier,1,9598.97,9598.97,Debit Card,4.8
+ORD00473,2024-02-29,Nagpur,Maharashtra,Grocery,Toor Dal,2,276.75,553.5,Net Banking,3.9
+ORD00474,2024-08-04,Coimbatore,Tamil Nadu,Sports,Dumbbells,4,6840.16,27360.64,Net Banking,3.8
+ORD00475,2024-03-23,Mumbai,Maharashtra,Books,Fiction Novel,1,137.15,137.15,EMI,4.2
+ORD00476,2024-07-02,Nagpur,Maharashtra,Electronics,Smartwatch,1,62856.41,62856.41,Net Banking,2.8
+ORD00477,2024-05-01,Surat,Gujarat,Grocery,Tea Powder,2,439.18,878.36,Credit Card,4.5
+ORD00478,2024-12-16,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,1,13919.33,13919.33,UPI,3.9
+ORD00479,2024-08-14,Mumbai,Maharashtra,Grocery,Cooking Oil,3,141.39,424.17,Net Banking,4.8
+ORD00480,2024-04-09,Kolkata,West Bengal,Grocery,Cooking Oil,2,389.8,779.6,UPI,2.9
+ORD00481,2024-01-21,Hyderabad,Telangana,Electronics,Laptop,2,77016.78,154033.56,Credit Card,3.9
+ORD00482,2024-03-20,Nagpur,Maharashtra,Clothing,Jacket,1,4260.87,4260.87,UPI,4.8
+ORD00483,2024-10-20,Coimbatore,Tamil Nadu,Electronics,Smartwatch,2,49440.89,98881.78,Debit Card,2.7
+ORD00484,2024-09-15,Kolkata,West Bengal,Home & Kitchen,Air Purifier,1,3533.44,3533.44,UPI,3.9
+ORD00485,2024-07-03,Bengaluru,Karnataka,Electronics,Headphones,1,18085.25,18085.25,UPI,4.9
+ORD00486,2024-01-05,Coimbatore,Tamil Nadu,Sports,Dumbbells,3,9967.32,29901.96,UPI,3.4
+ORD00487,2024-06-13,Delhi,Delhi,Grocery,Tea Powder,1,463.37,463.37,Credit Card,4.5
+ORD00488,2024-07-10,Pune,Maharashtra,Books,Self-Help Book,1,478.17,478.17,Credit Card,3.8
+ORD00489,2024-02-19,Mysuru,Karnataka,Electronics,Headphones,1,71913.39,71913.39,UPI,4.9
+ORD00490,2024-04-19,Chennai,Tamil Nadu,Sports,Cricket Bat,1,6381.25,6381.25,Cash on Delivery,3.6
+ORD00491,2024-08-10,Pune,Maharashtra,Clothing,Jacket,4,4177.99,16711.96,Debit Card,4.8
+ORD00492,2024-02-07,Kolkata,West Bengal,Grocery,Toor Dal,2,60.69,121.38,UPI,4.5
+ORD00493,2024-08-18,Chennai,Tamil Nadu,Electronics,Tablet,4,65818.74,263274.96,Debit Card,3.6
+ORD00494,2024-10-26,Mumbai,Maharashtra,Books,Engineering Textbook,2,474.38,948.76,UPI,4.6
+ORD00495,2024-05-24,Gurgaon,Haryana,Sports,Cricket Bat,2,3111.42,6222.84,Net Banking,3.6
+ORD00496,2024-07-19,Bengaluru,Karnataka,Grocery,Basmati Rice,2,263.29,526.58,Net Banking,4.6
+ORD00497,2024-11-27,Noida,Uttar Pradesh,Grocery,Toor Dal,4,184.13,736.52,Credit Card,4.9
+ORD00498,2024-10-02,Chennai,Tamil Nadu,Sports,Badminton Racket,1,1495.38,1495.38,Credit Card,2.7
+ORD00499,2024-03-13,Delhi,Delhi,Grocery,Cooking Oil,4,145.28,581.12,UPI,3.1
+ORD00500,2024-01-28,Surat,Gujarat,Home & Kitchen,Pressure Cooker,2,1984.95,3969.9,Cash on Delivery,4.8
+ORD00501,2024-04-11,Chennai,Tamil Nadu,Books,Python Programming,2,151.2,302.4,Debit Card,3.7
+ORD00502,2024-02-05,Gurgaon,Haryana,Home & Kitchen,Pressure Cooker,1,10168.04,10168.04,Cash on Delivery,3.3
+ORD00503,2024-10-17,Mysuru,Karnataka,Home & Kitchen,Air Purifier,2,9993.51,19987.02,Credit Card,3.3
+ORD00504,2024-11-24,Bengaluru,Karnataka,Clothing,T-Shirt,3,1703.43,5110.29,Credit Card,4.6
+ORD00505,2024-06-05,Nagpur,Maharashtra,Grocery,Cooking Oil,1,445.05,445.05,Credit Card,2.8
+ORD00506,2024-10-02,Hyderabad,Telangana,Sports,Cricket Bat,3,8465.39,25396.17,UPI,4.3
+ORD00507,2024-01-16,Hyderabad,Telangana,Electronics,Smartwatch,1,6494.3,6494.3,Net Banking,3.9
+ORD00508,2024-10-03,Ahmedabad,Gujarat,Sports,Badminton Racket,2,9091.14,18182.28,Credit Card,4.4
+ORD00509,2024-03-09,Gurgaon,Haryana,Books,Fiction Novel,2,724.01,1448.02,Credit Card,3.8
+ORD00510,2024-11-10,Bengaluru,Karnataka,Home & Kitchen,Air Purifier,1,455.7,455.7,Debit Card,4.4
+ORD00511,2024-03-15,Nagpur,Maharashtra,Books,Fiction Novel,4,225.4,901.6,Net Banking,3.7
+ORD00512,2024-04-29,Gurgaon,Haryana,Electronics,Laptop,1,61037.05,61037.05,UPI,3.0
+ORD00513,2024-11-28,Jaipur,Rajasthan,Home & Kitchen,Curtains,1,7204.21,7204.21,UPI,4.3
+ORD00514,2024-03-30,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,425.69,425.69,Credit Card,3.4
+ORD00515,2024-09-21,Coimbatore,Tamil Nadu,Grocery,Basmati Rice,1,282.5,282.5,Credit Card,4.5
+ORD00516,2024-08-13,Gurgaon,Haryana,Books,UPSC Guide,1,721.02,721.02,UPI,2.7
+ORD00517,2024-03-01,Hyderabad,Telangana,Home & Kitchen,Pressure Cooker,1,2508.53,2508.53,Debit Card,3.5
+ORD00518,2024-03-23,Gurgaon,Haryana,Grocery,Basmati Rice,1,266.68,266.68,Debit Card,3.5
+ORD00519,2024-01-21,Delhi,Delhi,Electronics,Laptop,1,46092.18,46092.18,Cash on Delivery,2.9
+ORD00520,2024-11-22,Nagpur,Maharashtra,Home & Kitchen,Pressure Cooker,1,7894.62,7894.62,UPI,4.3
+ORD00521,2024-09-03,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,2,3483.92,6967.84,UPI,4.6
+ORD00522,2024-05-15,Coimbatore,Tamil Nadu,Clothing,Jacket,1,4138.18,4138.18,UPI,4.2
+ORD00523,2024-02-25,Jaipur,Rajasthan,Books,Python Programming,1,513.42,513.42,UPI,3.8
+ORD00524,2024-11-10,Jaipur,Rajasthan,Sports,Dumbbells,2,8317.19,16634.38,Debit Card,4.7
+ORD00525,2024-10-03,Chennai,Tamil Nadu,Sports,Cricket Bat,2,1203.94,2407.88,Net Banking,4.7
+ORD00526,2024-09-28,Ahmedabad,Gujarat,Grocery,Spice Set,1,284.92,284.92,Credit Card,4.8
+ORD00527,2024-12-22,Mysuru,Karnataka,Books,Self-Help Book,2,512.33,1024.66,Debit Card,3.6
+ORD00528,2024-10-05,Noida,Uttar Pradesh,Books,Fiction Novel,1,737.06,737.06,Credit Card,3.0
+ORD00529,2024-12-01,Kolkata,West Bengal,Grocery,Basmati Rice,1,,,UPI,4.5
+ORD00530,2024-10-01,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,2,2575.25,5150.5,Credit Card,3.4
+ORD00531,2024-09-04,Noida,Uttar Pradesh,Grocery,Spice Set,1,389.74,389.74,UPI,3.9
+ORD00532,2024-03-11,Mysuru,Karnataka,Home & Kitchen,Bedsheet,3,8791.47,26374.41,Cash on Delivery,4.1
+ORD00533,2024-09-17,Kolkata,West Bengal,Clothing,Saree,4,3958.92,15835.68,Credit Card,3.3
+ORD00534,2024-02-16,Chennai,Tamil Nadu,Sports,Cricket Bat,5,,,Net Banking,3.7
+ORD00535,2024-01-20,Coimbatore,Tamil Nadu,Books,Engineering Textbook,1,144.86,144.86,Debit Card,4.8
+ORD00536,2024-03-30,Bengaluru,Karnataka,Sports,Running Shoes,5,3078.75,15393.75,Debit Card,3.6
+ORD00537,2024-09-21,Delhi,Delhi,Grocery,Tea Powder,1,178.7,178.7,Debit Card,4.0
+ORD00538,2024-05-21,Hyderabad,Telangana,Electronics,Headphones,1,19520.9,19520.9,Net Banking,3.4
+ORD00539,2024-02-16,Bengaluru,Karnataka,Books,Python Programming,1,240.22,240.22,Credit Card,4.3
+ORD00540,2024-04-09,Chennai,Tamil Nadu,Sports,Yoga Mat,3,3670.51,11011.53,Credit Card,3.5
+ORD00541,2024-05-30,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,1,6284.88,6284.88,UPI,2.8
+ORD00542,2024-07-12,Chennai,Tamil Nadu,Home & Kitchen,Air Purifier,2,12253.27,24506.54,Debit Card,4.4
+ORD00543,2024-09-03,Ahmedabad,Gujarat,Home & Kitchen,Curtains,4,10319.44,41277.76,UPI,2.7
+ORD00544,2024-06-29,Hyderabad,Telangana,Clothing,Sneakers,3,3565.65,10696.95,Credit Card,2.5
+ORD00545,2024-06-24,Surat,Gujarat,Home & Kitchen,Pressure Cooker,1,4523.16,4523.16,UPI,4.8
+ORD00546,2024-12-15,Mysuru,Karnataka,Home & Kitchen,Bedsheet,2,3512.92,7025.84,Cash on Delivery,3.0
+ORD00547,2024-04-13,Kolkata,West Bengal,Clothing,Jeans,4,3730.06,14920.24,Cash on Delivery,4.6
+ORD00548,2024-09-09,Gurgaon,Haryana,Clothing,T-Shirt,1,775.42,775.42,Debit Card,4.4
+ORD00549,2024-10-21,Chennai,Tamil Nadu,Electronics,Smart TV,1,30010.12,30010.12,Cash on Delivery,3.7
+ORD00550,2024-09-26,Ahmedabad,Gujarat,Sports,Yoga Mat,3,4159.43,12478.29,Net Banking,3.7
+ORD00551,2024-08-22,Chennai,Tamil Nadu,Electronics,Tablet,3,28109.47,84328.41,EMI,4.2
+ORD00552,2024-06-15,Mysuru,Karnataka,Home & Kitchen,Mixer Grinder,1,473.75,473.75,Credit Card,4.7
+ORD00553,2024-07-06,Nagpur,Maharashtra,Sports,Yoga Mat,1,2600.25,2600.25,UPI,3.6
+ORD00554,2024-10-19,Bengaluru,Karnataka,Grocery,Cooking Oil,1,214.29,214.29,UPI,3.9
+ORD00555,2024-07-14,Delhi,Delhi,Electronics,Smartwatch,1,21960.95,21960.95,UPI,4.5
+ORD00556,2024-11-18,Kolkata,West Bengal,Clothing,Saree,1,4067.21,4067.21,Credit Card,4.3
+ORD00557,2024-02-20,Ahmedabad,Gujarat,Books,Self-Help Book,3,275.68,827.04,Debit Card,2.7
+ORD00558,2024-05-13,Surat,Gujarat,Home & Kitchen,Curtains,1,12632.88,12632.88,Credit Card,3.9
+ORD00559,2024-11-06,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,591.58,591.58,UPI,3.9
+ORD00560,2024-09-18,Hyderabad,Telangana,Sports,Badminton Racket,1,9799.92,9799.92,Credit Card,4.3
+ORD00561,2024-03-26,Jaipur,Rajasthan,Electronics,Smart TV,1,49286.27,49286.27,Debit Card,4.8
+ORD00562,2024-03-23,Bengaluru,Karnataka,Grocery,Tea Powder,3,307.24,921.72,UPI,3.3
+ORD00563,2024-07-04,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,9199.16,9199.16,Net Banking,3.8
+ORD00564,2024-12-04,Mysuru,Karnataka,Books,Fiction Novel,1,228.72,228.72,UPI,4.4
+ORD00565,2024-08-30,Kolkata,West Bengal,Electronics,Laptop,1,13769.38,13769.38,Credit Card,2.6
+ORD00566,2024-07-18,Bengaluru,Karnataka,Sports,Cricket Bat,2,1308.11,2616.22,UPI,3.1
+ORD00567,2024-12-05,Noida,Uttar Pradesh,Books,Fiction Novel,3,,,Credit Card,4.8
+ORD00568,2024-08-15,Surat,Gujarat,Books,UPSC Guide,2,782.49,1564.98,UPI,4.9
+ORD00569,2024-10-15,Chennai,Tamil Nadu,Clothing,Jacket,2,3068.4,6136.8,Credit Card,4.1
+ORD00570,2024-06-06,Chennai,Tamil Nadu,Home & Kitchen,Bedsheet,1,7380.28,7380.28,Credit Card,3.1
+ORD00571,2024-05-26,Noida,Uttar Pradesh,Electronics,Smartphone,3,42103.64,126310.92,Credit Card,2.5
+ORD00572,2024-11-01,Jaipur,Rajasthan,Books,UPSC Guide,3,309.73,929.19,UPI,2.5
+ORD00573,2024-11-26,Gurgaon,Haryana,Clothing,Saree,1,4434.38,4434.38,Credit Card,3.4
+ORD00574,2024-11-09,Noida,Uttar Pradesh,Electronics,Smart TV,2,50213.18,100426.36,Net Banking,4.2
+ORD00575,2024-04-03,Noida,Uttar Pradesh,Grocery,Tea Powder,1,413.96,413.96,UPI,2.8
+ORD00576,2024-01-10,Mysuru,Karnataka,Sports,Dumbbells,2,2939.7,5879.4,UPI,4.9
+ORD00577,2024-01-05,Mumbai,Maharashtra,Clothing,T-Shirt,1,1554.15,1554.15,UPI,2.9
+ORD00578,2024-07-09,Mysuru,Karnataka,Clothing,Kurta,3,2217.17,6651.51,Credit Card,4.5
+ORD00579,2024-08-28,Gurgaon,Haryana,Electronics,Laptop,3,4955.05,14865.15,UPI,4.7
+ORD00580,2024-08-14,Noida,Uttar Pradesh,Books,Engineering Textbook,3,185.37,556.11,UPI,5.0
+ORD00581,2024-12-14,Delhi,Delhi,Books,Engineering Textbook,5,464.8,2324.0,EMI,4.8
+ORD00582,2024-09-03,Nagpur,Maharashtra,Grocery,Basmati Rice,2,385.13,770.26,Debit Card,3.0
+ORD00583,2024-06-15,Jaipur,Rajasthan,Electronics,Smartwatch,1,17814.17,17814.17,UPI,4.5
+ORD00584,2024-12-19,Coimbatore,Tamil Nadu,Electronics,Smart TV,1,63236.93,63236.93,Credit Card,4.0
+ORD00585,2024-11-16,Gurgaon,Haryana,Electronics,Laptop,1,13037.03,13037.03,UPI,3.4
+ORD00586,2024-10-12,Nagpur,Maharashtra,Grocery,Tea Powder,1,406.16,406.16,Net Banking,4.4
+ORD00587,2024-05-08,Ahmedabad,Gujarat,Books,Fiction Novel,1,114.95,114.95,Cash on Delivery,3.7
+ORD00588,2024-10-05,Mysuru,Karnataka,Sports,Yoga Mat,1,5564.52,5564.52,UPI,4.3
+ORD00589,2024-05-14,Noida,Uttar Pradesh,Sports,Running Shoes,2,1855.33,3710.66,Credit Card,3.6
+ORD00590,2024-07-05,Ahmedabad,Gujarat,Grocery,Tea Powder,1,,,Net Banking,3.1
+ORD00591,2024-12-15,Kolkata,West Bengal,Electronics,Smartwatch,3,77389.47,232168.41,Credit Card,3.9
+ORD00592,2024-12-03,Coimbatore,Tamil Nadu,Home & Kitchen,Bedsheet,1,6324.13,6324.13,UPI,4.6
+ORD00593,2024-10-19,Nagpur,Maharashtra,Clothing,T-Shirt,1,1169.98,1169.98,Debit Card,3.5
+ORD00594,2024-11-06,Mysuru,Karnataka,Sports,Running Shoes,1,7102.75,7102.75,Debit Card,2.5
+ORD00595,2024-11-23,Jaipur,Rajasthan,Clothing,Sneakers,4,2558.75,10235.0,UPI,3.9
+ORD00596,2024-09-27,Jaipur,Rajasthan,Books,Self-Help Book,1,655.97,655.97,UPI,2.7
+ORD00597,2024-09-29,Noida,Uttar Pradesh,Electronics,Laptop,1,76866.65,76866.65,Credit Card,3.0
+ORD00598,2024-07-31,Hyderabad,Telangana,Clothing,Jacket,1,3201.56,3201.56,Net Banking,4.4
+ORD00599,2024-04-02,Coimbatore,Tamil Nadu,Home & Kitchen,Curtains,1,10627.49,10627.49,Credit Card,3.8
+ORD00600,2024-06-10,Hyderabad,Telangana,Clothing,Jacket,1,4992.48,4992.48,Debit Card,5.0
+ORD00601,2024-11-07,Surat,Gujarat,Home & Kitchen,Curtains,1,11533.51,11533.51,UPI,3.9
+ORD00602,2024-01-01,Bengaluru,Karnataka,Sports,Yoga Mat,1,3792.08,3792.08,Debit Card,5.0
+ORD00603,2024-04-23,Coimbatore,Tamil Nadu,Electronics,Tablet,4,,,UPI,3.3
+ORD00604,2024-10-19,Ahmedabad,Gujarat,Grocery,Cooking Oil,2,463.6,927.2,UPI,2.6
+ORD00605,2024-05-11,Gurgaon,Haryana,Clothing,Jeans,4,1471.94,5887.76,Net Banking,2.7
+ORD00606,2024-03-29,Bengaluru,Karnataka,Sports,Badminton Racket,2,7422.38,14844.76,Credit Card,4.7
+ORD00607,2024-10-22,Kolkata,West Bengal,Sports,Cricket Bat,1,6073.74,6073.74,Credit Card,4.5
+ORD00608,2024-03-02,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,13232.95,13232.95,Cash on Delivery,3.1
+ORD00609,2024-09-25,Hyderabad,Telangana,Sports,Cricket Bat,2,6448.7,12897.4,UPI,3.8
+ORD00610,2024-07-20,Nagpur,Maharashtra,Home & Kitchen,Air Purifier,1,10557.2,10557.2,EMI,4.4
+ORD00611,2024-03-08,Coimbatore,Tamil Nadu,Sports,Cricket Bat,1,2454.23,2454.23,UPI,3.7
+ORD00612,2024-12-23,Kolkata,West Bengal,Electronics,Tablet,1,32235.71,32235.71,UPI,2.8
+ORD00613,2024-09-25,Chennai,Tamil Nadu,Clothing,Saree,2,2097.53,4195.06,UPI,2.7
+ORD00614,2024-07-30,Ahmedabad,Gujarat,Books,Self-Help Book,2,579.32,1158.64,Credit Card,3.4
+ORD00615,2024-06-28,Gurgaon,Haryana,Home & Kitchen,Air Purifier,3,9934.52,29803.56,Debit Card,5.0
+ORD00616,2024-12-16,Mysuru,Karnataka,Sports,Badminton Racket,4,4572.5,18290.0,Credit Card,4.4
+ORD00617,2024-03-16,Surat,Gujarat,Electronics,Smartphone,1,59296.74,59296.74,Cash on Delivery,4.6
+ORD00618,2024-10-02,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,4785.24,4785.24,UPI,3.9
+ORD00619,2024-12-23,Ahmedabad,Gujarat,Home & Kitchen,Air Purifier,2,7400.49,14800.98,Debit Card,3.4
+ORD00620,2024-12-22,Jaipur,Rajasthan,Grocery,Tea Powder,1,69.57,69.57,Debit Card,2.6
+ORD00621,2024-12-03,Hyderabad,Telangana,Electronics,Smartphone,1,31397.29,31397.29,Credit Card,2.8
+ORD00622,2024-02-20,Noida,Uttar Pradesh,Grocery,Spice Set,1,154.03,154.03,Cash on Delivery,3.7
+ORD00623,2024-12-30,Coimbatore,Tamil Nadu,Sports,Cricket Bat,2,2108.25,4216.5,UPI,3.1
+ORD00624,2024-12-16,Chennai,Tamil Nadu,Home & Kitchen,Bedsheet,2,,,Credit Card,4.1
+ORD00625,2024-01-16,Delhi,Delhi,Sports,Yoga Mat,2,8175.36,16350.72,Cash on Delivery,4.9
+ORD00626,2024-07-14,Delhi,Delhi,Clothing,Kurta,2,4506.44,9012.88,Credit Card,4.2
+ORD00627,2024-06-08,Surat,Gujarat,Grocery,Toor Dal,2,237.8,475.6,Cash on Delivery,3.3
+ORD00628,2024-04-13,Chennai,Tamil Nadu,Clothing,Jeans,2,3331.87,6663.74,Cash on Delivery,3.3
+ORD00629,2024-12-01,Kolkata,West Bengal,Sports,Badminton Racket,4,4471.62,17886.48,Cash on Delivery,4.8
+ORD00630,2024-03-15,Gurgaon,Haryana,Electronics,Tablet,2,42870.44,85740.88,Debit Card,4.4
+ORD00631,2024-11-22,Jaipur,Rajasthan,Books,UPSC Guide,2,312.34,624.68,Cash on Delivery,3.2
+ORD00632,2024-11-11,Ahmedabad,Gujarat,Clothing,T-Shirt,1,831.42,831.42,UPI,3.9
+ORD00633,2024-09-01,Delhi,Delhi,Sports,Badminton Racket,1,2539.85,2539.85,UPI,4.6
+ORD00634,2024-03-24,Mysuru,Karnataka,Grocery,Cooking Oil,1,132.79,132.79,UPI,2.6
+ORD00635,2024-04-13,Ahmedabad,Gujarat,Electronics,Headphones,1,76040.74,76040.74,Net Banking,2.7
+ORD00636,2024-05-06,Jaipur,Rajasthan,Books,Python Programming,1,442.96,442.96,Credit Card,4.4
+ORD00637,2024-10-19,Coimbatore,Tamil Nadu,Grocery,Spice Set,1,374.09,374.09,Debit Card,3.8
+ORD00638,2024-01-22,Jaipur,Rajasthan,Grocery,Basmati Rice,1,284.29,284.29,Cash on Delivery,3.1
+ORD00639,2024-01-26,Chennai,Tamil Nadu,Books,Engineering Textbook,2,490.39,980.78,UPI,3.6
+ORD00640,2024-01-28,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,1,7081.8,7081.8,Debit Card,4.8
+ORD00641,2024-10-26,Mysuru,Karnataka,Grocery,Spice Set,2,90.7,181.4,Cash on Delivery,4.2
+ORD00642,2024-12-30,Nagpur,Maharashtra,Books,UPSC Guide,1,326.42,326.42,Cash on Delivery,4.7
+ORD00643,2024-03-04,Pune,Maharashtra,Home & Kitchen,Bedsheet,4,10468.25,41873.0,UPI,4.3
+ORD00644,2024-09-18,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,8000.11,8000.11,Debit Card,2.9
+ORD00645,2024-12-03,Chennai,Tamil Nadu,Books,Engineering Textbook,4,637.78,2551.12,Cash on Delivery,2.9
+ORD00646,2024-08-16,Nagpur,Maharashtra,Clothing,Sneakers,1,446.29,446.29,UPI,3.0
+ORD00647,2024-09-11,Jaipur,Rajasthan,Clothing,Jeans,3,,,Cash on Delivery,3.9
+ORD00648,2024-07-28,Mumbai,Maharashtra,Sports,Dumbbells,2,2607.42,5214.84,Credit Card,4.0
+ORD00649,2024-04-16,Mumbai,Maharashtra,Clothing,Jacket,2,1534.94,3069.88,UPI,2.9
+ORD00650,2024-11-04,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,2437.0,2437.0,UPI,4.8
+ORD00651,2024-12-04,Mumbai,Maharashtra,Electronics,Smart TV,1,79501.95,79501.95,Debit Card,4.0
+ORD00652,2024-01-19,Ahmedabad,Gujarat,Sports,Badminton Racket,2,9673.04,19346.08,UPI,3.2
+ORD00653,2024-08-29,Gurgaon,Haryana,Books,Engineering Textbook,3,630.91,1892.73,UPI,4.2
+ORD00654,2024-01-30,Noida,Uttar Pradesh,Home & Kitchen,Air Purifier,1,6382.24,6382.24,UPI,4.3
+ORD00655,2024-12-27,Hyderabad,Telangana,Sports,Cricket Bat,2,4991.53,9983.06,UPI,4.0
+ORD00656,2024-11-10,Gurgaon,Haryana,Home & Kitchen,Air Purifier,2,8754.6,17509.2,Debit Card,3.8
+ORD00657,2024-05-28,Hyderabad,Telangana,Books,UPSC Guide,4,665.59,2662.36,EMI,2.5
+ORD00658,2024-07-31,Mumbai,Maharashtra,Books,Engineering Textbook,1,616.23,616.23,Credit Card,3.3
+ORD00659,2024-02-04,Chennai,Tamil Nadu,Grocery,Toor Dal,1,55.08,55.08,UPI,3.8
+ORD00660,2024-11-11,Gurgaon,Haryana,Electronics,Smartphone,1,55023.95,55023.95,EMI,4.6
+ORD00661,2024-01-19,Delhi,Delhi,Home & Kitchen,Bedsheet,1,13857.51,13857.51,Debit Card,3.7
+ORD00662,2024-01-29,Hyderabad,Telangana,Books,Python Programming,1,727.15,727.15,Cash on Delivery,3.2
+ORD00663,2024-06-18,Kolkata,West Bengal,Grocery,Cooking Oil,1,299.83,299.83,Net Banking,4.7
+ORD00664,2024-11-16,Gurgaon,Haryana,Electronics,Laptop,1,22796.57,22796.57,Credit Card,2.9
+ORD00665,2024-12-27,Coimbatore,Tamil Nadu,Books,Fiction Novel,3,516.63,1549.89,Cash on Delivery,4.3
+ORD00666,2024-06-03,Noida,Uttar Pradesh,Books,Engineering Textbook,1,447.94,447.94,UPI,3.3
+ORD00667,2024-01-13,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,4,11733.52,46934.08,Net Banking,4.8
+ORD00668,2024-06-16,Nagpur,Maharashtra,Clothing,Kurta,2,4633.46,9266.92,UPI,4.7
+ORD00669,2024-09-24,Surat,Gujarat,Sports,Badminton Racket,1,2290.31,2290.31,UPI,3.3
+ORD00670,2024-02-22,Mumbai,Maharashtra,Grocery,Tea Powder,1,442.34,442.34,Credit Card,4.1
+ORD00671,2024-04-12,Noida,Uttar Pradesh,Electronics,Tablet,2,60800.26,121600.52,UPI,3.2
+ORD00672,2024-11-14,Gurgaon,Haryana,Books,Engineering Textbook,1,290.86,290.86,Debit Card,2.8
+ORD00673,2024-05-25,Chennai,Tamil Nadu,Home & Kitchen,Air Purifier,1,4981.73,4981.73,Debit Card,2.9
+ORD00674,2024-12-11,Noida,Uttar Pradesh,Sports,Yoga Mat,1,,,UPI,3.5
+ORD00675,2024-12-19,Pune,Maharashtra,Books,UPSC Guide,2,225.29,450.58,Debit Card,4.0
+ORD00676,2024-08-26,Noida,Uttar Pradesh,Home & Kitchen,Pressure Cooker,2,10779.61,21559.22,Debit Card,2.7
+ORD00677,2024-08-26,Ahmedabad,Gujarat,Grocery,Spice Set,1,93.77,93.77,Credit Card,4.9
+ORD00678,2024-12-06,Nagpur,Maharashtra,Sports,Yoga Mat,1,9154.76,9154.76,UPI,4.7
+ORD00679,2024-08-24,Gurgaon,Haryana,Books,UPSC Guide,1,121.18,121.18,Cash on Delivery,3.2
+ORD00680,2024-02-24,Gurgaon,Haryana,Sports,Running Shoes,1,1535.72,1535.72,UPI,4.1
+ORD00681,2024-05-04,Ahmedabad,Gujarat,Home & Kitchen,Air Purifier,2,7076.33,14152.66,Credit Card,4.9
+ORD00682,2024-08-10,Bengaluru,Karnataka,Electronics,Headphones,2,17054.93,34109.86,Debit Card,3.4
+ORD00683,2024-10-20,Kolkata,West Bengal,Clothing,Jeans,1,3380.54,3380.54,Cash on Delivery,2.8
+ORD00684,2024-07-26,Coimbatore,Tamil Nadu,Books,Self-Help Book,3,488.56,1465.68,UPI,2.8
+ORD00685,2024-04-21,Surat,Gujarat,Sports,Dumbbells,2,3475.86,6951.72,Net Banking,4.7
+ORD00686,2024-05-29,Jaipur,Rajasthan,Grocery,Basmati Rice,2,390.68,781.36,Credit Card,3.9
+ORD00687,2024-12-13,Delhi,Delhi,Clothing,Sneakers,1,4411.64,4411.64,UPI,4.9
+ORD00688,2024-09-18,Bengaluru,Karnataka,Grocery,Cooking Oil,2,495.63,991.26,Credit Card,2.8
+ORD00689,2024-10-13,Noida,Uttar Pradesh,Electronics,Headphones,5,,,Net Banking,3.4
+ORD00690,2024-06-11,Surat,Gujarat,Home & Kitchen,Mixer Grinder,2,3758.05,7516.1,Debit Card,3.5
+ORD00691,2024-07-15,Bengaluru,Karnataka,Sports,Badminton Racket,1,6726.13,6726.13,Cash on Delivery,3.4
+ORD00692,2024-02-06,Bengaluru,Karnataka,Clothing,Kurta,2,4987.79,9975.58,Debit Card,2.9
+ORD00693,2024-07-31,Jaipur,Rajasthan,Books,UPSC Guide,1,782.48,782.48,Cash on Delivery,4.7
+ORD00694,2024-08-18,Kolkata,West Bengal,Sports,Dumbbells,1,6345.51,6345.51,Credit Card,3.1
+ORD00695,2024-09-13,Bengaluru,Karnataka,Sports,Cricket Bat,3,5906.0,17718.0,UPI,4.8
+ORD00696,2024-02-27,Coimbatore,Tamil Nadu,Home & Kitchen,Mixer Grinder,2,14680.03,29360.06,Debit Card,4.9
+ORD00697,2024-05-23,Pune,Maharashtra,Clothing,Sneakers,5,3710.21,18551.05,Credit Card,2.7
+ORD00698,2024-12-08,Jaipur,Rajasthan,Sports,Cricket Bat,2,2678.74,5357.48,UPI,4.1
+ORD00699,2024-01-06,Ahmedabad,Gujarat,Sports,Yoga Mat,4,6246.48,24985.92,Credit Card,3.8
+ORD00700,2024-05-28,Mysuru,Karnataka,Sports,Yoga Mat,5,4383.86,21919.3,UPI,4.2
+ORD00701,2024-08-30,Coimbatore,Tamil Nadu,Grocery,Cooking Oil,2,377.14,754.28,Debit Card,3.9
+ORD00702,2024-02-09,Hyderabad,Telangana,Home & Kitchen,Air Purifier,1,701.28,701.28,Cash on Delivery,3.2
+ORD00703,2024-11-05,Nagpur,Maharashtra,Sports,Yoga Mat,1,2969.61,2969.61,UPI,4.0
+ORD00704,2024-04-30,Nagpur,Maharashtra,Grocery,Spice Set,1,216.4,216.4,Credit Card,4.5
+ORD00705,2024-03-19,Surat,Gujarat,Electronics,Headphones,5,78733.7,393668.5,Cash on Delivery,4.4
+ORD00706,2024-10-22,Bengaluru,Karnataka,Books,Fiction Novel,2,562.47,1124.94,Net Banking,3.4
+ORD00707,2024-08-31,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,1072.09,1072.09,Net Banking,4.4
+ORD00708,2024-09-28,Chennai,Tamil Nadu,Clothing,Saree,1,3480.85,3480.85,Cash on Delivery,2.5
+ORD00709,2024-01-22,Jaipur,Rajasthan,Books,UPSC Guide,5,574.95,2874.75,UPI,3.8
+ORD00710,2024-05-16,Gurgaon,Haryana,Books,Python Programming,3,742.63,2227.89,Net Banking,3.1
+ORD00711,2024-10-28,Coimbatore,Tamil Nadu,Books,UPSC Guide,2,641.21,1282.42,Net Banking,3.8
+ORD00712,2024-02-04,Hyderabad,Telangana,Grocery,Toor Dal,1,,,UPI,2.7
+ORD00713,2024-01-18,Pune,Maharashtra,Grocery,Spice Set,2,208.18,416.36,UPI,2.7
+ORD00714,2024-03-02,Coimbatore,Tamil Nadu,Grocery,Toor Dal,2,477.72,955.44,UPI,4.0
+ORD00715,2024-04-04,Bengaluru,Karnataka,Grocery,Tea Powder,1,411.44,411.44,UPI,3.7
+ORD00716,2024-12-20,Jaipur,Rajasthan,Electronics,Smartwatch,5,36548.78,182743.9,Cash on Delivery,4.4
+ORD00717,2024-07-17,Gurgaon,Haryana,Home & Kitchen,Pressure Cooker,1,11776.75,11776.75,UPI,2.7
+ORD00718,2024-11-08,Surat,Gujarat,Home & Kitchen,Pressure Cooker,1,6776.45,6776.45,Credit Card,4.1
+ORD00719,2024-08-14,Pune,Maharashtra,Clothing,Jacket,1,3889.8,3889.8,Debit Card,2.8
+ORD00720,2024-09-11,Pune,Maharashtra,Electronics,Tablet,3,,,UPI,4.1
+ORD00721,2024-07-19,Jaipur,Rajasthan,Electronics,Smartwatch,1,31543.46,31543.46,Debit Card,3.8
+ORD00722,2024-02-05,Ahmedabad,Gujarat,Books,UPSC Guide,3,405.24,1215.72,Credit Card,2.5
+ORD00723,2024-12-15,Kolkata,West Bengal,Books,Engineering Textbook,4,497.07,1988.28,UPI,2.6
+ORD00724,2024-08-23,Hyderabad,Telangana,Electronics,Headphones,5,43002.79,215013.95,Net Banking,3.2
+ORD00725,2024-12-22,Delhi,Delhi,Clothing,Jacket,1,388.79,388.79,Credit Card,2.8
+ORD00726,2024-03-12,Kolkata,West Bengal,Home & Kitchen,Curtains,2,1547.48,3094.96,UPI,2.6
+ORD00727,2024-09-12,Coimbatore,Tamil Nadu,Clothing,Saree,3,2066.08,6198.24,Credit Card,4.6
+ORD00728,2024-07-26,Mysuru,Karnataka,Electronics,Smartphone,1,27473.17,27473.17,UPI,4.5
+ORD00729,2024-10-23,Hyderabad,Telangana,Sports,Dumbbells,4,9418.87,37675.48,UPI,2.7
+ORD00730,2024-01-24,Kolkata,West Bengal,Clothing,Saree,1,3338.39,3338.39,UPI,4.1
+ORD00731,2024-08-21,Mumbai,Maharashtra,Clothing,Sneakers,1,439.8,439.8,Debit Card,4.6
+ORD00732,2024-04-13,Pune,Maharashtra,Electronics,Smartphone,3,40022.91,120068.73,Credit Card,4.5
+ORD00733,2024-03-11,Kolkata,West Bengal,Grocery,Spice Set,5,195.91,979.55,UPI,4.9
+ORD00734,2024-07-31,Delhi,Delhi,Electronics,Tablet,1,14289.09,14289.09,UPI,3.4
+ORD00735,2024-11-19,Nagpur,Maharashtra,Books,Fiction Novel,1,747.97,747.97,Debit Card,4.4
+ORD00736,2024-11-29,Mumbai,Maharashtra,Books,Engineering Textbook,1,104.44,104.44,Debit Card,3.2
+ORD00737,2024-07-29,Kolkata,West Bengal,Books,Fiction Novel,2,244.31,488.62,UPI,2.9
+ORD00738,2024-11-17,Kolkata,West Bengal,Electronics,Tablet,1,14810.04,14810.04,Net Banking,3.3
+ORD00739,2024-02-18,Bengaluru,Karnataka,Electronics,Tablet,1,19233.3,19233.3,Debit Card,4.7
+ORD00740,2024-01-28,Chennai,Tamil Nadu,Sports,Badminton Racket,2,4802.9,9605.8,UPI,4.5
+ORD00741,2024-11-26,Hyderabad,Telangana,Books,UPSC Guide,2,223.43,446.86,Credit Card,3.0
+ORD00742,2024-01-27,Noida,Uttar Pradesh,Home & Kitchen,Air Purifier,3,12135.76,36407.28,Cash on Delivery,2.9
+ORD00743,2024-08-15,Ahmedabad,Gujarat,Electronics,Smart TV,1,41434.85,41434.85,Debit Card,3.3
+ORD00744,2024-05-01,Delhi,Delhi,Grocery,Cooking Oil,1,153.53,153.53,Net Banking,4.7
+ORD00745,2024-03-15,Bengaluru,Karnataka,Clothing,T-Shirt,1,2460.75,2460.75,UPI,4.0
+ORD00746,2024-05-18,Nagpur,Maharashtra,Books,Self-Help Book,2,195.48,390.96,UPI,2.8
+ORD00747,2024-08-02,Kolkata,West Bengal,Sports,Cricket Bat,1,3021.86,3021.86,UPI,3.4
+ORD00748,2024-03-28,Jaipur,Rajasthan,Home & Kitchen,Air Purifier,3,2604.79,7814.37,Debit Card,3.9
+ORD00749,2024-10-29,Delhi,Delhi,Electronics,Smart TV,1,68629.41,68629.41,Credit Card,3.7
+ORD00750,2024-10-23,Mumbai,Maharashtra,Grocery,Spice Set,1,381.28,381.28,UPI,4.8
+ORD00751,2024-09-15,Nagpur,Maharashtra,Sports,Cricket Bat,1,4352.39,4352.39,UPI,3.8
+ORD00752,2024-01-07,Mysuru,Karnataka,Grocery,Basmati Rice,1,253.6,253.6,Debit Card,3.5
+ORD00753,2024-09-02,Delhi,Delhi,Clothing,Kurta,2,1619.79,3239.58,Debit Card,2.9
+ORD00754,2024-12-26,Mysuru,Karnataka,Sports,Running Shoes,1,536.81,536.81,Credit Card,4.5
+ORD00755,2024-07-16,Gurgaon,Haryana,Grocery,Spice Set,1,366.76,366.76,Cash on Delivery,3.3
+ORD00756,2024-10-21,Mumbai,Maharashtra,Home & Kitchen,Curtains,2,11367.45,22734.9,Net Banking,4.5
+ORD00757,2024-12-11,Pune,Maharashtra,Sports,Yoga Mat,1,7436.88,7436.88,Credit Card,2.6
+ORD00758,2024-10-13,Bengaluru,Karnataka,Home & Kitchen,Curtains,1,9401.26,9401.26,Debit Card,3.9
+ORD00759,2024-09-01,Ahmedabad,Gujarat,Clothing,Jeans,1,4910.01,4910.01,Net Banking,4.4
+ORD00760,2024-05-16,Surat,Gujarat,Grocery,Toor Dal,3,388.93,1166.79,Credit Card,3.6
+ORD00761,2024-03-03,Mumbai,Maharashtra,Electronics,Headphones,1,27945.51,27945.51,Credit Card,3.8
+ORD00762,2024-12-20,Surat,Gujarat,Sports,Yoga Mat,1,4684.19,4684.19,Net Banking,4.9
+ORD00763,2024-02-09,Pune,Maharashtra,Clothing,Saree,1,619.08,619.08,UPI,3.2
+ORD00764,2024-01-12,Kolkata,West Bengal,Clothing,Saree,1,922.39,922.39,UPI,4.9
+ORD00765,2024-05-29,Chennai,Tamil Nadu,Clothing,Saree,1,1864.16,1864.16,UPI,2.6
+ORD00766,2024-11-26,Ahmedabad,Gujarat,Clothing,Jacket,1,3294.43,3294.43,Net Banking,3.7
+ORD00767,2024-03-08,Hyderabad,Telangana,Grocery,Tea Powder,1,428.86,428.86,Cash on Delivery,3.3
+ORD00768,2024-01-25,Ahmedabad,Gujarat,Home & Kitchen,Pressure Cooker,5,7418.37,37091.85,UPI,3.2
+ORD00769,2024-12-28,Nagpur,Maharashtra,Sports,Badminton Racket,1,7204.58,7204.58,Debit Card,4.2
+ORD00770,2024-08-13,Nagpur,Maharashtra,Clothing,Jeans,5,761.2,3806.0,UPI,3.0
+ORD00771,2024-08-17,Chennai,Tamil Nadu,Grocery,Basmati Rice,5,349.5,1747.5,Credit Card,2.9
+ORD00772,2024-08-22,Noida,Uttar Pradesh,Electronics,Smartphone,1,32662.71,32662.71,Cash on Delivery,2.9
+ORD00773,2024-05-28,Kolkata,West Bengal,Sports,Running Shoes,2,3513.42,7026.84,EMI,4.4
+ORD00774,2024-06-22,Coimbatore,Tamil Nadu,Grocery,Toor Dal,2,409.81,819.62,Debit Card,4.3
+ORD00775,2024-11-12,Jaipur,Rajasthan,Electronics,Laptop,1,,,Cash on Delivery,3.6
+ORD00776,2024-05-22,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1,9239.82,9239.82,UPI,2.7
+ORD00777,2024-11-04,Surat,Gujarat,Books,Engineering Textbook,1,783.09,783.09,Debit Card,4.9
+ORD00778,2024-07-16,Jaipur,Rajasthan,Grocery,Cooking Oil,2,228.9,457.8,Credit Card,3.2
+ORD00779,2024-08-15,Gurgaon,Haryana,Home & Kitchen,Curtains,1,13152.24,13152.24,Net Banking,3.5
+ORD00780,2024-07-31,Mysuru,Karnataka,Home & Kitchen,Pressure Cooker,5,12143.39,60716.95,UPI,4.0
+ORD00781,2024-06-20,Pune,Maharashtra,Clothing,Jeans,5,1655.51,8277.55,UPI,4.9
+ORD00782,2024-03-30,Ahmedabad,Gujarat,Books,Engineering Textbook,2,104.63,209.26,Debit Card,4.3
+ORD00783,2024-01-22,Ahmedabad,Gujarat,Clothing,Jeans,1,1092.83,1092.83,Net Banking,3.3
+ORD00784,2024-01-02,Coimbatore,Tamil Nadu,Home & Kitchen,Curtains,1,,,UPI,3.3
+ORD00785,2024-04-01,Hyderabad,Telangana,Grocery,Spice Set,2,105.88,211.76,Credit Card,4.2
+ORD00786,2024-11-02,Delhi,Delhi,Electronics,Smartphone,1,61295.11,61295.11,Net Banking,4.0
+ORD00787,2024-03-02,Coimbatore,Tamil Nadu,Books,Self-Help Book,1,539.6,539.6,Credit Card,4.3
+ORD00788,2024-12-20,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,1,8850.32,8850.32,UPI,2.9
+ORD00789,2024-05-29,Noida,Uttar Pradesh,Home & Kitchen,Curtains,5,9652.83,48264.15,Credit Card,4.8
+ORD00790,2024-10-05,Chennai,Tamil Nadu,Clothing,Sneakers,1,1079.59,1079.59,UPI,3.3
+ORD00791,2024-09-30,Surat,Gujarat,Grocery,Cooking Oil,2,172.16,344.32,Debit Card,4.6
+ORD00792,2024-03-24,Mumbai,Maharashtra,Clothing,Jacket,3,1550.81,4652.43,UPI,2.9
+ORD00793,2024-09-29,Delhi,Delhi,Clothing,Jacket,3,3144.46,9433.38,Debit Card,4.3
+ORD00794,2024-01-09,Ahmedabad,Gujarat,Electronics,Smart TV,1,37109.06,37109.06,Credit Card,3.3
+ORD00795,2024-06-24,Gurgaon,Haryana,Clothing,Saree,2,4470.69,8941.38,UPI,3.3
+ORD00796,2024-06-06,Kolkata,West Bengal,Electronics,Laptop,2,10732.8,21465.6,UPI,2.8
+ORD00797,2024-01-22,Pune,Maharashtra,Books,Engineering Textbook,3,154.41,463.23,UPI,2.6
+ORD00798,2024-02-03,Hyderabad,Telangana,Sports,Running Shoes,1,874.87,874.87,UPI,2.5
+ORD00799,2024-06-28,Pune,Maharashtra,Electronics,Tablet,4,16829.39,67317.56,UPI,2.9
+ORD00800,2024-11-09,Kolkata,West Bengal,Home & Kitchen,Air Purifier,1,5413.2,5413.2,UPI,3.9
+ORD00801,2024-03-28,Pune,Maharashtra,Sports,Cricket Bat,2,5429.74,10859.48,Cash on Delivery,3.8
+ORD00802,2024-12-23,Kolkata,West Bengal,Electronics,Laptop,3,73677.94,221033.82,Debit Card,3.6
+ORD00803,2024-07-27,Pune,Maharashtra,Clothing,Kurta,1,4910.25,4910.25,UPI,5.0
+ORD00804,2024-05-27,Pune,Maharashtra,Books,Engineering Textbook,1,463.81,463.81,Debit Card,2.6
+ORD00805,2024-12-17,Gurgaon,Haryana,Books,Engineering Textbook,1,369.35,369.35,EMI,3.6
+ORD00806,2024-08-31,Chennai,Tamil Nadu,Books,Self-Help Book,1,789.47,789.47,Cash on Delivery,3.4
+ORD00807,2024-12-12,Mumbai,Maharashtra,Grocery,Spice Set,1,352.44,352.44,UPI,2.9
+ORD00808,2024-03-27,Bengaluru,Karnataka,Grocery,Tea Powder,2,489.91,979.82,UPI,4.9
+ORD00809,2024-08-05,Gurgaon,Haryana,Clothing,Jacket,1,4251.34,4251.34,Debit Card,3.2
+ORD00810,2024-07-23,Kolkata,West Bengal,Sports,Running Shoes,3,2947.84,8843.52,Credit Card,4.2
+ORD00811,2024-05-08,Bengaluru,Karnataka,Books,Python Programming,3,295.22,885.66,Credit Card,3.1
+ORD00812,2024-01-14,Nagpur,Maharashtra,Electronics,Smartphone,3,59154.97,177464.91,EMI,3.5
+ORD00813,2024-12-04,Hyderabad,Telangana,Home & Kitchen,Pressure Cooker,2,4750.46,9500.92,Net Banking,4.4
+ORD00814,2024-10-04,Ahmedabad,Gujarat,Books,Fiction Novel,1,305.49,305.49,UPI,4.6
+ORD00815,2024-08-18,Chennai,Tamil Nadu,Electronics,Smartphone,4,79261.57,317046.28,UPI,3.4
+ORD00816,2024-12-27,Mysuru,Karnataka,Electronics,Smartphone,2,14561.1,29122.2,UPI,3.6
+ORD00817,2024-12-03,Noida,Uttar Pradesh,Grocery,Spice Set,1,269.35,269.35,Debit Card,3.8
+ORD00818,2024-09-10,Mysuru,Karnataka,Books,Python Programming,2,698.05,1396.1,Debit Card,3.4
+ORD00819,2024-07-06,Hyderabad,Telangana,Home & Kitchen,Bedsheet,1,5011.1,5011.1,UPI,4.4
+ORD00820,2024-07-29,Mumbai,Maharashtra,Grocery,Cooking Oil,1,221.26,221.26,Credit Card,4.2
+ORD00821,2024-06-05,Delhi,Delhi,Clothing,Sneakers,1,1698.08,1698.08,UPI,2.9
+ORD00822,2024-08-03,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,7075.37,21226.11,UPI,4.2
+ORD00823,2024-09-07,Coimbatore,Tamil Nadu,Electronics,Headphones,1,30530.14,30530.14,UPI,4.2
+ORD00824,2024-06-02,Gurgaon,Haryana,Books,Python Programming,2,668.02,1336.04,Credit Card,3.6
+ORD00825,2024-01-25,Mysuru,Karnataka,Grocery,Basmati Rice,2,428.17,856.34,UPI,3.9
+ORD00826,2024-02-18,Ahmedabad,Gujarat,Clothing,Jacket,1,3765.86,3765.86,Debit Card,3.2
+ORD00827,2024-06-03,Coimbatore,Tamil Nadu,Sports,Dumbbells,1,4442.93,4442.93,Credit Card,3.2
+ORD00828,2024-08-20,Hyderabad,Telangana,Sports,Yoga Mat,1,2240.75,2240.75,Debit Card,3.9
+ORD00829,2024-04-19,Jaipur,Rajasthan,Electronics,Smartwatch,3,56414.87,169244.61,Debit Card,4.6
+ORD00830,2024-10-16,Mysuru,Karnataka,Home & Kitchen,Air Purifier,3,12191.32,36573.96,Debit Card,2.6
+ORD00831,2024-06-02,Delhi,Delhi,Home & Kitchen,Curtains,1,2471.83,2471.83,Cash on Delivery,3.5
+ORD00832,2024-11-26,Surat,Gujarat,Electronics,Smartwatch,1,16682.86,16682.86,UPI,4.2
+ORD00833,2024-06-07,Delhi,Delhi,Books,Fiction Novel,1,179.49,179.49,Credit Card,3.9
+ORD00834,2024-05-22,Bengaluru,Karnataka,Books,Engineering Textbook,1,,,Debit Card,2.9
+ORD00835,2024-02-12,Surat,Gujarat,Electronics,Smartwatch,1,39124.44,39124.44,UPI,3.2
+ORD00836,2024-03-12,Pune,Maharashtra,Books,Self-Help Book,4,570.17,2280.68,UPI,3.9
+ORD00837,2024-09-25,Chennai,Tamil Nadu,Electronics,Tablet,2,53305.26,106610.52,UPI,4.7
+ORD00838,2024-07-18,Delhi,Delhi,Sports,Cricket Bat,1,7799.95,7799.95,Net Banking,4.4
+ORD00839,2024-08-13,Jaipur,Rajasthan,Books,Fiction Novel,1,200.99,200.99,Credit Card,4.7
+ORD00840,2024-08-04,Mumbai,Maharashtra,Books,Python Programming,4,362.29,1449.16,Credit Card,3.1
+ORD00841,2024-11-26,Noida,Uttar Pradesh,Clothing,Kurta,1,2481.06,2481.06,EMI,4.0
+ORD00842,2024-10-09,Surat,Gujarat,Grocery,Basmati Rice,3,360.81,1082.43,Credit Card,4.1
+ORD00843,2024-01-05,Kolkata,West Bengal,Home & Kitchen,Mixer Grinder,1,8163.19,8163.19,Cash on Delivery,3.5
+ORD00844,2024-04-17,Jaipur,Rajasthan,Home & Kitchen,Bedsheet,3,1626.68,4880.04,Cash on Delivery,2.9
+ORD00845,2024-01-18,Mysuru,Karnataka,Grocery,Cooking Oil,3,445.76,1337.28,UPI,2.7
+ORD00846,2024-08-04,Ahmedabad,Gujarat,Books,UPSC Guide,4,615.86,2463.44,Cash on Delivery,4.6
+ORD00847,2024-10-07,Surat,Gujarat,Clothing,Sneakers,1,1452.66,1452.66,Net Banking,3.6
+ORD00848,2024-03-10,Mumbai,Maharashtra,Electronics,Smartwatch,2,51506.6,103013.2,UPI,3.0
+ORD00849,2024-11-28,Noida,Uttar Pradesh,Home & Kitchen,Air Purifier,1,1508.81,1508.81,Net Banking,4.6
+ORD00850,2024-03-29,Hyderabad,Telangana,Books,Self-Help Book,4,416.04,1664.16,Debit Card,4.6
+ORD00851,2024-07-12,Ahmedabad,Gujarat,Home & Kitchen,Pressure Cooker,1,1540.66,1540.66,Cash on Delivery,4.7
+ORD00852,2024-02-15,Delhi,Delhi,Electronics,Smartphone,2,73887.43,147774.86,EMI,3.0
+ORD00853,2024-02-15,Kolkata,West Bengal,Clothing,T-Shirt,1,2124.97,2124.97,EMI,2.9
+ORD00854,2024-08-20,Coimbatore,Tamil Nadu,Electronics,Smartphone,1,57627.38,57627.38,Net Banking,3.7
+ORD00855,2024-05-27,Delhi,Delhi,Grocery,Toor Dal,3,135.74,407.22,Net Banking,3.5
+ORD00856,2024-04-06,Bengaluru,Karnataka,Clothing,Jacket,3,1234.72,3704.16,Credit Card,3.5
+ORD00857,2024-05-07,Nagpur,Maharashtra,Electronics,Headphones,1,78102.19,78102.19,Credit Card,4.2
+ORD00858,2024-07-22,Mysuru,Karnataka,Electronics,Smartphone,4,37776.09,151104.36,Debit Card,4.3
+ORD00859,2024-06-19,Kolkata,West Bengal,Books,Python Programming,1,279.36,279.36,Cash on Delivery,3.7
+ORD00860,2024-09-15,Gurgaon,Haryana,Sports,Running Shoes,3,,,Debit Card,3.3
+ORD00861,2024-04-01,Bengaluru,Karnataka,Grocery,Cooking Oil,4,109.51,438.04,UPI,3.8
+ORD00862,2024-03-13,Jaipur,Rajasthan,Home & Kitchen,Curtains,1,2239.22,2239.22,UPI,3.3
+ORD00863,2024-05-14,Nagpur,Maharashtra,Books,Self-Help Book,4,623.48,2493.92,Debit Card,4.4
+ORD00864,2024-09-08,Noida,Uttar Pradesh,Sports,Yoga Mat,1,4527.02,4527.02,Net Banking,2.9
+ORD00865,2024-01-19,Surat,Gujarat,Grocery,Spice Set,1,73.95,73.95,Credit Card,2.9
+ORD00866,2024-07-01,Mysuru,Karnataka,Books,Engineering Textbook,4,796.64,3186.56,EMI,3.9
+ORD00867,2024-02-17,Mysuru,Karnataka,Books,Engineering Textbook,3,692.09,2076.27,UPI,3.2
+ORD00868,2024-10-26,Surat,Gujarat,Clothing,Sneakers,1,2641.94,2641.94,UPI,5.0
+ORD00869,2024-09-12,Mumbai,Maharashtra,Sports,Running Shoes,4,2051.52,8206.08,Debit Card,4.7
+ORD00870,2024-06-14,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,2,6094.3,12188.6,UPI,2.7
+ORD00871,2024-01-03,Surat,Gujarat,Grocery,Spice Set,5,254.32,1271.6,UPI,2.6
+ORD00872,2024-10-18,Coimbatore,Tamil Nadu,Books,Self-Help Book,5,763.19,3815.95,UPI,4.7
+ORD00873,2024-11-04,Ahmedabad,Gujarat,Grocery,Cooking Oil,1,195.43,195.43,Credit Card,3.5
+ORD00874,2024-07-25,Nagpur,Maharashtra,Clothing,Saree,3,628.1,1884.3,UPI,4.4
+ORD00875,2024-06-07,Hyderabad,Telangana,Clothing,T-Shirt,3,1633.02,4899.06,Cash on Delivery,4.0
+ORD00876,2024-07-17,Gurgaon,Haryana,Grocery,Basmati Rice,2,424.42,848.84,Credit Card,3.9
+ORD00877,2024-08-06,Bengaluru,Karnataka,Electronics,Smart TV,2,64974.05,129948.1,UPI,3.8
+ORD00878,2024-09-26,Mysuru,Karnataka,Grocery,Toor Dal,2,341.42,682.84,Debit Card,3.8
+ORD00879,2024-03-06,Noida,Uttar Pradesh,Books,UPSC Guide,3,155.43,466.29,Debit Card,3.3
+ORD00880,2024-01-24,Delhi,Delhi,Sports,Dumbbells,1,3166.17,3166.17,Credit Card,3.8
+ORD00881,2024-05-10,Bengaluru,Karnataka,Electronics,Smart TV,2,53037.99,106075.98,Debit Card,4.4
+ORD00882,2024-07-20,Mumbai,Maharashtra,Electronics,Smartwatch,1,53095.48,53095.48,UPI,3.5
+ORD00883,2024-11-15,Kolkata,West Bengal,Home & Kitchen,Bedsheet,1,8931.96,8931.96,Net Banking,3.4
+ORD00884,2024-12-10,Jaipur,Rajasthan,Clothing,Jeans,2,1088.42,2176.84,UPI,3.8
+ORD00885,2024-07-26,Mumbai,Maharashtra,Books,Engineering Textbook,2,109.31,218.62,Cash on Delivery,4.9
+ORD00886,2024-12-19,Coimbatore,Tamil Nadu,Grocery,Spice Set,3,186.26,558.78,Debit Card,4.2
+ORD00887,2024-01-09,Bengaluru,Karnataka,Home & Kitchen,Mixer Grinder,1,2138.82,2138.82,Debit Card,3.0
+ORD00888,2024-11-16,Mumbai,Maharashtra,Clothing,Saree,2,3313.39,6626.78,Cash on Delivery,3.8
+ORD00889,2024-03-19,Pune,Maharashtra,Home & Kitchen,Curtains,1,2478.04,2478.04,Net Banking,3.6
+ORD00890,2024-10-18,Mysuru,Karnataka,Books,Engineering Textbook,2,701.86,1403.72,Net Banking,3.5
+ORD00891,2024-09-10,Gurgaon,Haryana,Electronics,Smartphone,2,50617.59,101235.18,Net Banking,4.0
+ORD00892,2024-11-09,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,7466.2,7466.2,Cash on Delivery,4.8
+ORD00893,2024-06-10,Surat,Gujarat,Books,Fiction Novel,2,600.0,1200.0,Debit Card,3.2
+ORD00894,2024-08-17,Hyderabad,Telangana,Books,UPSC Guide,2,181.86,363.72,Debit Card,2.6
+ORD00895,2024-10-27,Noida,Uttar Pradesh,Grocery,Toor Dal,1,261.16,261.16,Cash on Delivery,3.3
+ORD00896,2024-08-01,Coimbatore,Tamil Nadu,Grocery,Spice Set,1,109.02,109.02,Cash on Delivery,4.2
+ORD00897,2024-05-24,Kolkata,West Bengal,Home & Kitchen,Curtains,3,12056.4,36169.2,Debit Card,2.7
+ORD00898,2024-07-31,Mysuru,Karnataka,Clothing,Jeans,2,1157.52,2315.04,Cash on Delivery,3.7
+ORD00899,2024-07-01,Delhi,Delhi,Clothing,Jacket,1,425.84,425.84,Debit Card,2.9
+ORD00900,2024-04-26,Surat,Gujarat,Sports,Cricket Bat,1,8126.11,8126.11,UPI,3.1
+ORD00901,2024-03-18,Noida,Uttar Pradesh,Home & Kitchen,Bedsheet,3,11609.8,34829.4,Cash on Delivery,4.7
+ORD00902,2024-08-22,Coimbatore,Tamil Nadu,Grocery,Basmati Rice,4,367.88,1471.52,EMI,4.4
+ORD00903,2024-01-22,Pune,Maharashtra,Sports,Running Shoes,4,7886.92,31547.68,Credit Card,2.9
+ORD00904,2024-09-16,Pune,Maharashtra,Clothing,Kurta,1,953.76,953.76,Credit Card,4.7
+ORD00905,2024-08-12,Nagpur,Maharashtra,Grocery,Cooking Oil,1,200.57,200.57,EMI,4.4
+ORD00906,2024-07-09,Mumbai,Maharashtra,Clothing,Saree,2,1838.34,3676.68,Debit Card,3.5
+ORD00907,2024-04-26,Hyderabad,Telangana,Grocery,Toor Dal,3,118.23,354.69,UPI,3.6
+ORD00908,2024-01-16,Jaipur,Rajasthan,Books,UPSC Guide,2,766.29,1532.58,Credit Card,4.4
+ORD00909,2024-03-25,Kolkata,West Bengal,Sports,Cricket Bat,1,1122.35,1122.35,Credit Card,3.5
+ORD00910,2024-12-04,Mumbai,Maharashtra,Grocery,Toor Dal,1,456.13,456.13,Cash on Delivery,4.9
+ORD00911,2024-06-25,Bengaluru,Karnataka,Books,Python Programming,2,711.48,1422.96,UPI,3.2
+ORD00912,2024-10-05,Chennai,Tamil Nadu,Sports,Badminton Racket,1,7092.86,7092.86,Debit Card,4.0
+ORD00913,2024-04-11,Mysuru,Karnataka,Grocery,Cooking Oil,3,449.45,1348.35,Cash on Delivery,2.7
+ORD00914,2024-10-03,Chennai,Tamil Nadu,Home & Kitchen,Curtains,2,10958.95,21917.9,UPI,2.7
+ORD00915,2024-10-03,Chennai,Tamil Nadu,Home & Kitchen,Air Purifier,2,,,Debit Card,3.1
+ORD00916,2024-07-09,Ahmedabad,Gujarat,Home & Kitchen,Curtains,1,14808.23,14808.23,UPI,3.8
+ORD00917,2024-01-03,Pune,Maharashtra,Electronics,Smartwatch,1,75336.77,75336.77,Credit Card,5.0
+ORD00918,2024-09-30,Ahmedabad,Gujarat,Grocery,Tea Powder,4,304.52,1218.08,Cash on Delivery,3.1
+ORD00919,2024-05-06,Noida,Uttar Pradesh,Home & Kitchen,Air Purifier,2,10184.78,20369.56,UPI,3.8
+ORD00920,2024-02-11,Delhi,Delhi,Home & Kitchen,Curtains,2,1740.42,3480.84,UPI,3.6
+ORD00921,2024-10-28,Nagpur,Maharashtra,Books,Fiction Novel,1,412.31,412.31,Debit Card,4.4
+ORD00922,2024-09-07,Surat,Gujarat,Home & Kitchen,Air Purifier,1,7632.76,7632.76,Net Banking,3.5
+ORD00923,2024-12-26,Nagpur,Maharashtra,Clothing,Jacket,2,810.2,1620.4,Credit Card,3.8
+ORD00924,2024-07-08,Kolkata,West Bengal,Clothing,Saree,2,2472.11,4944.22,Cash on Delivery,2.8
+ORD00925,2024-03-19,Surat,Gujarat,Books,Engineering Textbook,2,184.61,369.22,UPI,3.3
+ORD00926,2024-10-28,Gurgaon,Haryana,Home & Kitchen,Bedsheet,3,7443.11,22329.33,Credit Card,4.8
+ORD00927,2024-10-07,Noida,Uttar Pradesh,Home & Kitchen,Pressure Cooker,2,,,UPI,4.7
+ORD00928,2024-07-12,Bengaluru,Karnataka,Books,Python Programming,1,316.79,316.79,Credit Card,4.3
+ORD00929,2024-08-17,Coimbatore,Tamil Nadu,Clothing,Jeans,1,2622.87,2622.87,UPI,4.3
+ORD00930,2024-10-03,Pune,Maharashtra,Sports,Running Shoes,1,4273.39,4273.39,UPI,4.2
+ORD00931,2024-10-19,Mysuru,Karnataka,Grocery,Cooking Oil,3,340.66,1021.98,Debit Card,4.4
+ORD00932,2024-10-04,Noida,Uttar Pradesh,Sports,Cricket Bat,1,6545.97,6545.97,Debit Card,2.6
+ORD00933,2024-12-03,Coimbatore,Tamil Nadu,Sports,Badminton Racket,2,,,Cash on Delivery,2.9
+ORD00934,2024-08-15,Mumbai,Maharashtra,Home & Kitchen,Pressure Cooker,2,3905.71,7811.42,UPI,3.8
+ORD00935,2024-08-11,Gurgaon,Haryana,Books,Python Programming,3,,,UPI,2.6
+ORD00936,2024-03-27,Chennai,Tamil Nadu,Home & Kitchen,Curtains,1,4080.51,4080.51,UPI,3.0
+ORD00937,2024-11-10,Ahmedabad,Gujarat,Electronics,Laptop,1,24890.14,24890.14,EMI,3.0
+ORD00938,2024-06-14,Kolkata,West Bengal,Electronics,Headphones,1,31500.21,31500.21,UPI,4.9
+ORD00939,2024-09-09,Jaipur,Rajasthan,Electronics,Smartphone,3,16603.48,49810.44,Credit Card,3.8
+ORD00940,2024-01-15,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,2,4979.55,9959.1,Credit Card,3.1
+ORD00941,2024-10-11,Jaipur,Rajasthan,Electronics,Headphones,2,44548.98,89097.96,Debit Card,2.8
+ORD00942,2024-03-13,Coimbatore,Tamil Nadu,Books,UPSC Guide,2,158.74,317.48,Credit Card,5.0
+ORD00943,2024-01-22,Ahmedabad,Gujarat,Clothing,Jacket,5,4772.54,23862.7,UPI,3.7
+ORD00944,2024-09-03,Surat,Gujarat,Sports,Yoga Mat,1,6634.67,6634.67,UPI,3.1
+ORD00945,2024-05-24,Hyderabad,Telangana,Books,Self-Help Book,1,689.71,689.71,UPI,4.3
+ORD00946,2024-10-11,Coimbatore,Tamil Nadu,Electronics,Headphones,2,7632.35,15264.7,EMI,4.7
+ORD00947,2024-06-24,Delhi,Delhi,Sports,Running Shoes,1,9586.95,9586.95,Debit Card,4.9
+ORD00948,2024-08-23,Kolkata,West Bengal,Books,Self-Help Book,5,272.15,1360.75,EMI,3.3
+ORD00949,2024-01-05,Jaipur,Rajasthan,Grocery,Toor Dal,1,340.9,340.9,Debit Card,3.5
+ORD00950,2024-11-28,Jaipur,Rajasthan,Grocery,Spice Set,2,393.11,786.22,Debit Card,3.8
+ORD00951,2024-11-03,Jaipur,Rajasthan,Grocery,Spice Set,1,352.51,352.51,Credit Card,2.9
+ORD00952,2024-01-05,Ahmedabad,Gujarat,Grocery,Basmati Rice,1,106.14,106.14,UPI,2.5
+ORD00953,2024-04-23,Noida,Uttar Pradesh,Grocery,Cooking Oil,3,136.18,408.54,UPI,3.7
+ORD00954,2024-01-04,Gurgaon,Haryana,Electronics,Headphones,2,39680.61,79361.22,UPI,4.6
+ORD00955,2024-12-03,Bengaluru,Karnataka,Electronics,Headphones,1,45743.63,45743.63,Net Banking,4.2
+ORD00956,2024-05-12,Coimbatore,Tamil Nadu,Sports,Badminton Racket,1,934.0,934.0,Cash on Delivery,4.6
+ORD00957,2024-12-20,Jaipur,Rajasthan,Sports,Yoga Mat,2,2160.96,4321.92,Debit Card,4.0
+ORD00958,2024-11-28,Hyderabad,Telangana,Sports,Dumbbells,1,318.96,318.96,UPI,4.8
+ORD00959,2024-09-21,Bengaluru,Karnataka,Books,Self-Help Book,2,185.2,370.4,Net Banking,4.7
+ORD00960,2024-07-19,Delhi,Delhi,Electronics,Headphones,2,73512.12,147024.24,UPI,2.7
+ORD00961,2024-05-07,Coimbatore,Tamil Nadu,Electronics,Smartwatch,2,18437.43,36874.86,UPI,3.3
+ORD00962,2024-11-16,Pune,Maharashtra,Grocery,Basmati Rice,1,,,Cash on Delivery,4.6
+ORD00963,2024-06-19,Delhi,Delhi,Electronics,Smart TV,1,19449.56,19449.56,Credit Card,3.1
+ORD00964,2024-03-04,Pune,Maharashtra,Sports,Running Shoes,1,4553.74,4553.74,UPI,2.7
+ORD00965,2024-02-01,Mumbai,Maharashtra,Books,Self-Help Book,2,723.06,1446.12,Cash on Delivery,3.6
+ORD00966,2024-05-30,Noida,Uttar Pradesh,Sports,Dumbbells,2,938.17,1876.34,Cash on Delivery,3.5
+ORD00967,2024-08-20,Coimbatore,Tamil Nadu,Books,Fiction Novel,3,705.21,2115.63,Credit Card,4.5
+ORD00968,2024-01-14,Jaipur,Rajasthan,Sports,Running Shoes,2,1282.4,2564.8,Credit Card,3.3
+ORD00969,2024-04-09,Delhi,Delhi,Electronics,Smartphone,2,1476.94,2953.88,Cash on Delivery,2.8
+ORD00970,2024-05-04,Chennai,Tamil Nadu,Home & Kitchen,Bedsheet,2,6488.8,12977.6,UPI,2.6
+ORD00971,2024-06-08,Nagpur,Maharashtra,Home & Kitchen,Air Purifier,5,6706.97,33534.85,Debit Card,3.9
+ORD00972,2024-01-05,Nagpur,Maharashtra,Clothing,Saree,1,1681.64,1681.64,Credit Card,4.1
+ORD00973,2024-08-04,Nagpur,Maharashtra,Electronics,Laptop,3,40815.08,122445.24,UPI,4.9
+ORD00974,2024-08-27,Hyderabad,Telangana,Clothing,T-Shirt,2,1839.45,3678.9,Debit Card,3.3
+ORD00975,2024-08-20,Coimbatore,Tamil Nadu,Sports,Yoga Mat,1,6276.2,6276.2,Cash on Delivery,4.8
+ORD00976,2024-04-19,Mysuru,Karnataka,Clothing,T-Shirt,2,3266.08,6532.16,UPI,4.3
+ORD00977,2024-07-04,Surat,Gujarat,Home & Kitchen,Curtains,1,3318.15,3318.15,UPI,3.4
+ORD00978,2024-07-03,Chennai,Tamil Nadu,Electronics,Laptop,1,23600.81,23600.81,UPI,2.6
+ORD00979,2024-10-10,Delhi,Delhi,Home & Kitchen,Pressure Cooker,1,3518.49,3518.49,UPI,3.0
+ORD00980,2024-02-26,Nagpur,Maharashtra,Home & Kitchen,Mixer Grinder,2,608.61,1217.22,UPI,3.0
+ORD00981,2024-11-15,Mysuru,Karnataka,Clothing,Kurta,2,4085.54,8171.08,Cash on Delivery,4.7
+ORD00982,2024-09-29,Pune,Maharashtra,Electronics,Laptop,1,70676.49,70676.49,Credit Card,3.4
+ORD00983,2024-10-01,Coimbatore,Tamil Nadu,Books,Fiction Novel,3,744.71,2234.13,UPI,2.9
+ORD00984,2024-10-26,Delhi,Delhi,Electronics,Smartwatch,4,63751.15,255004.6,Cash on Delivery,3.0
+ORD00985,2024-11-26,Pune,Maharashtra,Books,Python Programming,2,145.41,290.82,Net Banking,3.4
+ORD00986,2024-09-10,Chennai,Tamil Nadu,Books,Fiction Novel,1,325.28,325.28,Credit Card,4.0
+ORD00987,2024-04-30,Hyderabad,Telangana,Sports,Cricket Bat,4,2309.84,9239.36,Credit Card,3.3
+ORD00988,2024-02-13,Jaipur,Rajasthan,Books,Python Programming,3,210.05,630.15,UPI,2.7
+ORD00989,2024-06-21,Mysuru,Karnataka,Sports,Yoga Mat,1,2532.72,2532.72,Credit Card,3.7
+ORD00990,2024-04-29,Bengaluru,Karnataka,Home & Kitchen,Curtains,1,4960.2,4960.2,UPI,2.7
+ORD00991,2024-05-21,Jaipur,Rajasthan,Electronics,Headphones,2,67486.97,134973.94,Cash on Delivery,2.7
+ORD00992,2024-05-08,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1,8326.58,8326.58,UPI,4.5
+ORD00993,2024-10-05,Hyderabad,Telangana,Home & Kitchen,Pressure Cooker,5,10672.95,53364.75,Cash on Delivery,2.5
+ORD00994,2024-10-23,Noida,Uttar Pradesh,Home & Kitchen,Bedsheet,1,11811.99,11811.99,Net Banking,2.5
+ORD00995,2024-04-17,Hyderabad,Telangana,Sports,Badminton Racket,1,8695.02,8695.02,Credit Card,3.8
+ORD00996,2024-06-09,Ahmedabad,Gujarat,Sports,Dumbbells,1,7308.35,7308.35,Cash on Delivery,3.6
+ORD00997,2024-03-12,Kolkata,West Bengal,Books,Fiction Novel,3,407.08,1221.24,Debit Card,2.8
+ORD00998,2024-08-02,Kolkata,West Bengal,Electronics,Smart TV,3,64926.91,194780.73,Credit Card,4.4
+ORD00999,2024-01-17,Ahmedabad,Gujarat,Grocery,Tea Powder,2,184.84,369.68,Cash on Delivery,2.9
+ORD01000,2024-07-14,Gurgaon,Haryana,Sports,Running Shoes,2,9163.4,18326.8,UPI,3.5
+ORD00522,2024-05-15,Coimbatore,Tamil Nadu,Clothing,Jacket,1,4138.18,4138.18,UPI,4.2
+ORD00738,2024-11-17,Kolkata,West Bengal,Electronics,Tablet,1,14810.04,14810.04,Net Banking,3.3
+ORD00741,2024-11-26,Hyderabad,Telangana,Books,UPSC Guide,2,223.43,446.86,Credit Card,3.0
+ORD00661,2024-01-19,Delhi,Delhi,Home & Kitchen,Bedsheet,1,13857.51,13857.51,Debit Card,3.7
+ORD00412,2024-09-08,Jaipur,Rajasthan,Home & Kitchen,Mixer Grinder,3,5266.63,15799.89,Cash on Delivery,4.2
+ORD00679,2024-08-24,Gurgaon,Haryana,Books,UPSC Guide,1,121.18,121.18,Cash on Delivery,3.2
+ORD00627,2024-06-08,Surat,Gujarat,Grocery,Toor Dal,2,237.8,475.6,Cash on Delivery,3.3
+ORD00514,2024-03-30,Chennai,Tamil Nadu,Grocery,Cooking Oil,1,425.69,425.69,Credit Card,3.4
+ORD00860,2024-09-15,Gurgaon,Haryana,Sports,Running Shoes,3,,,Debit Card,3.3
+ORD00137,2024-08-03,Ahmedabad,Gujarat,Clothing,Jacket,1,1754.1,1754.1,Credit Card,4.4
